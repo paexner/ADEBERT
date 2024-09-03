@@ -1,0 +1,227 @@
+case_id,anomalies
+1-147898401,accepted  in  progress occurred before accepted  wait; accepted  wait occurred after accepted  in  progress
+1-165554831,accepted  in  progress occurred before accepted  wait; accepted  wait occurred after accepted  in  progress
+1-182640781,accepted  assigned occurred before accepted  in  progress; accepted  wait occurred after accepted  in  progress; accepted  in  progress occurred after accepted  assigned
+1-230541365,accepted  wait occurred before accepted  in  progress; accepted  in  progress occurred after accepted  wait
+1-236817141,"completed  closed occurred before accepted  assigned, accepted  wait; accepted  in  progress occurred before accepted  assigned, accepted  wait, queued  awaiting  assignment; accepted  wait occurred after accepted  assigned, accepted  in  progress, completed  closed; queued  awaiting  assignment occurred after accepted  in  progress; accepted  assigned occurred after accepted  in  progress, completed  closed"
+1-270427461,accepted  in  progress occurred before accepted  wait; accepted  wait occurred after accepted  in  progress
+1-345132462,"accepted  in  progress occurred before accepted  assigned, accepted  wait; accepted  wait occurred after accepted  assigned, accepted  in  progress; accepted  assigned occurred after accepted  in  progress"
+1-351314317,"completed  closed occurred before accepted  in  progress; accepted  in  progress occurred before accepted  assigned, queued  awaiting  assignment; queued  awaiting  assignment occurred after accepted  in  progress; accepted  assigned occurred after accepted  in  progress"
+1-354350908,accepted  wait occurred before accepted  in  progress; accepted  in  progress occurred after accepted  wait
+1-359841262,"accepted  in  progress occurred before accepted  assigned, queued  awaiting  assignment; queued  awaiting  assignment occurred after accepted  in  progress; accepted  assigned occurred after accepted  in  progress"
+1-360072755,"accepted  assigned occurred before accepted  in  progress, accepted  wait; queued  awaiting  assignment occurred before accepted  assigned; accepted  in  progress occurred after accepted  assigned, accepted  wait; accepted  wait occurred after accepted  assigned"
+1-360464815,accepted  wait occurred before accepted  in  progress; accepted  in  progress occurred after accepted  wait
+1-363206822,accepted  in  progress occurred before queued  awaiting  assignment; queued  awaiting  assignment occurred after accepted  in  progress
+1-366923538,completed  closed occurred before accepted  in  progress; accepted  in  progress occurred after completed  closed
+1-367921041,accepted  in  progress occurred before accepted  assigned; accepted  assigned occurred after accepted  in  progress
+1-370436092,accepted  in  progress occurred before queued  awaiting  assignment; queued  awaiting  assignment occurred after accepted  in  progress
+1-372029512,"completed  closed occurred before accepted  assigned, accepted  wait; accepted  wait occurred after completed  closed; accepted  assigned occurred after completed  closed"
+1-374832944,accepted  assigned occurred before accepted  in  progress; accepted  in  progress occurred after accepted  assigned
+1-375644051,"accepted  in  progress occurred before accepted  wait, queued  awaiting  assignment; accepted  wait occurred after accepted  in  progress; queued  awaiting  assignment occurred after accepted  in  progress"
+1-378050311,accepted  in  progress occurred before queued  awaiting  assignment; queued  awaiting  assignment occurred after accepted  in  progress
+1-380632889,accepted  in  progress occurred before queued  awaiting  assignment; queued  awaiting  assignment occurred after accepted  in  progress
+1-382209384,accepted  assigned occurred before accepted  in  progress; accepted  in  progress occurred after accepted  assigned
+1-384097130,"accepted  assigned occurred before accepted  in  progress, accepted  wait; accepted  in  progress occurred after accepted  assigned, accepted  wait; accepted  wait occurred after accepted  assigned"
+1-385201933,"completed  closed occurred before accepted  assigned, accepted  in  progress; accepted  assigned occurred after accepted  in  progress, completed  closed; accepted  wait occurred after accepted  in  progress; accepted  in  progress occurred after accepted  wait, completed  closed"
+1-390250582,accepted  wait occurred before accepted  in  progress; accepted  assigned occurred after accepted  in  progress; accepted  in  progress occurred after accepted  wait
+1-390722958,accepted  in  progress occurred before accepted  assigned; accepted  assigned occurred after accepted  in  progress
+1-399628501,accepted  in  progress occurred before accepted  assigned; accepted  assigned occurred after accepted  in  progress
+1-404005175,completed  closed occurred before accepted  wait; accepted  wait occurred after completed  closed; accepted  in  progress occurred after accepted  wait
+1-404084309,accepted  wait occurred before accepted  in  progress; accepted  in  progress occurred after accepted  wait
+1-404736991,"accepted  in  progress occurred before accepted  wait; completed  closed occurred before accepted  wait; accepted  wait occurred after accepted  in  progress, completed  closed"
+1-413205820,"accepted  in  progress occurred before accepted  assigned, queued  awaiting  assignment; queued  awaiting  assignment occurred after accepted  in  progress; accepted  assigned occurred after accepted  in  progress, queued  awaiting  assignment"
+1-415000020,"accepted  in  progress occurred before accepted  wait, queued  awaiting  assignment; accepted  wait occurred after accepted  in  progress; queued  awaiting  assignment occurred after accepted  in  progress"
+1-415822336,"accepted  in  progress occurred before accepted  wait, queued  awaiting  assignment; accepted  wait occurred after accepted  in  progress; queued  awaiting  assignment occurred after accepted  in  progress"
+1-422418092,accepted  in  progress occurred before queued  awaiting  assignment; queued  awaiting  assignment occurred after accepted  in  progress; accepted  assigned occurred after queued  awaiting  assignment
+1-427955007,accepted  in  progress occurred before accepted  wait; accepted  wait occurred after accepted  in  progress
+1-429498598,"completed  closed occurred before accepted  wait; accepted  assigned occurred before accepted  wait; accepted  wait occurred after accepted  assigned, completed  closed"
+1-430880486,"completed  closed occurred before accepted  in  progress; accepted  wait occurred before accepted  in  progress; accepted  in  progress occurred after accepted  wait, completed  closed"
+1-433910332,"accepted  assigned occurred before accepted  in  progress; accepted  wait occurred after accepted  in  progress; accepted  in  progress occurred after accepted  assigned, accepted  wait"
+1-439833168,"accepted  in  progress occurred before accepted  wait; completed  closed occurred before accepted  wait; accepted  wait occurred after accepted  in  progress, completed  closed"
+1-473084325,"accepted  in  progress occurred before accepted  wait, queued  awaiting  assignment; accepted  wait occurred after accepted  in  progress; queued  awaiting  assignment occurred after accepted  in  progress"
+1-479002951,accepted  wait occurred before accepted  in  progress; accepted  in  progress occurred after accepted  wait
+1-489198755,accepted  in  progress occurred before accepted  wait; accepted  wait occurred after accepted  in  progress
+1-498324124,accepted  assigned occurred before accepted  in  progress; accepted  in  progress occurred after accepted  assigned
+1-502769178,accepted  wait occurred before accepted  in  progress; accepted  in  progress occurred after accepted  wait
+1-512617571,"completed  closed occurred before accepted  in  progress, accepted  wait; accepted  assigned occurred before accepted  in  progress, accepted  wait; accepted  wait occurred after accepted  assigned, accepted  in  progress, completed  closed; accepted  in  progress occurred after accepted  assigned, completed  closed"
+1-514618724,accepted  wait occurred before accepted  in  progress; accepted  in  progress occurred after accepted  wait
+1-515461174,"accepted  assigned occurred before accepted  in  progress; completed  closed occurred before accepted  in  progress; accepted  wait occurred before accepted  in  progress; accepted  in  progress occurred after accepted  assigned, accepted  wait, completed  closed"
+1-520127960,"completed  closed occurred before accepted  assigned, accepted  in  progress; accepted  in  progress occurred after completed  closed; accepted  assigned occurred after accepted  in  progress, completed  closed"
+1-520705880,"completed  closed occurred before accepted  in  progress, accepted  wait; accepted  wait occurred after accepted  in  progress, completed  closed; accepted  in  progress occurred after completed  closed"
+1-524375607,accepted  assigned occurred before accepted  in  progress; accepted  in  progress occurred after accepted  assigned
+1-531872604,accepted  wait occurred before accepted  in  progress; accepted  in  progress occurred after accepted  wait
+1-535418135,accepted  in  progress occurred before accepted  wait; accepted  wait occurred after accepted  in  progress
+1-537169872,queued  awaiting  assignment occurred before accepted  assigned; accepted  assigned occurred after queued  awaiting  assignment
+1-539083171,"completed  closed occurred before accepted  assigned, accepted  in  progress; accepted  in  progress occurred after accepted  assigned, completed  closed; accepted  assigned occurred after completed  closed"
+1-539805130,"completed  closed occurred before accepted  in  progress, accepted  wait; accepted  in  progress occurred after accepted  wait, completed  closed; accepted  wait occurred after completed  closed"
+1-542027112,accepted  in  progress occurred before accepted  assigned; accepted  assigned occurred after accepted  in  progress
+1-542940765,accepted  in  progress occurred before queued  awaiting  assignment; queued  awaiting  assignment occurred after accepted  in  progress
+1-543300099,accepted  in  progress occurred before accepted  assigned; accepted  assigned occurred after accepted  in  progress
+1-546838031,accepted  in  progress occurred before accepted  wait; accepted  wait occurred after accepted  in  progress
+1-547617088,"accepted  assigned occurred before accepted  in  progress, accepted  wait; accepted  in  progress occurred after accepted  assigned, accepted  wait; accepted  wait occurred after accepted  assigned"
+1-560404489,"accepted  in  progress occurred before accepted  wait, queued  awaiting  assignment; accepted  wait occurred after accepted  in  progress; queued  awaiting  assignment occurred after accepted  in  progress"
+1-563779807,"accepted  in  progress occurred before accepted  assigned, accepted  wait; accepted  wait occurred after accepted  in  progress; accepted  assigned occurred after accepted  in  progress"
+1-564738994,accepted  in  progress occurred before accepted  wait; accepted  wait occurred after accepted  in  progress
+1-572078531,accepted  in  progress occurred before queued  awaiting  assignment; queued  awaiting  assignment occurred after accepted  in  progress
+1-573830584,accepted  in  progress occurred after accepted  assigned; accepted  assigned occurred after accepted  in  progress
+1-574222268,accepted  in  progress occurred after accepted  assigned; accepted  assigned occurred after accepted  in  progress
+1-574623837,accepted  assigned occurred before accepted  in  progress; accepted  in  progress occurred after accepted  assigned
+1-578612990,"accepted  in  progress occurred before accepted  assigned, queued  awaiting  assignment; queued  awaiting  assignment occurred after accepted  in  progress; accepted  assigned occurred after accepted  in  progress, queued  awaiting  assignment"
+1-581898739,accepted  in  progress occurred before queued  awaiting  assignment; queued  awaiting  assignment occurred after accepted  in  progress
+1-584812041,accepted  assigned occurred before accepted  in  progress; accepted  in  progress occurred after accepted  assigned
+1-588712865,"random activity occurred before queued  awaiting  assignment; accepted  in  progress occurred before accepted  wait, queued  awaiting  assignment; queued  awaiting  assignment occurred after accepted  in  progress, random activity; accepted  wait occurred after accepted  in  progress"
+1-590574771,"completed  closed occurred before accepted  in  progress, queued  awaiting  assignment; accepted  in  progress occurred after completed  closed; queued  awaiting  assignment occurred after accepted  in  progress, completed  closed"
+1-591627183,completed  closed occurred before accepted  in  progress; accepted  in  progress occurred after completed  closed; queued  awaiting  assignment occurred after accepted  in  progress
+1-593312167,accepted  in  progress occurred before accepted  wait; accepted  wait occurred after accepted  in  progress
+1-594472343,"completed  closed occurred before accepted  assigned, accepted  wait; accepted  in  progress occurred before accepted  assigned, accepted  wait; accepted  wait occurred after accepted  assigned, accepted  in  progress, completed  closed; accepted  assigned occurred after accepted  in  progress, completed  closed"
+1-595293983,"completed  closed occurred before accepted  in  progress, queued  awaiting  assignment; accepted  in  progress occurred after completed  closed; queued  awaiting  assignment occurred after accepted  in  progress, completed  closed"
+1-596251950,accepted  assigned occurred before accepted  in  progress; accepted  in  progress occurred after accepted  assigned
+1-599157751,"accepted  in  progress occurred before queued  awaiting  assignment; completed  closed occurred before queued  awaiting  assignment; queued  awaiting  assignment occurred after accepted  in  progress, completed  closed"
+1-600663061,"completed  closed occurred before accepted  in  progress, queued  awaiting  assignment; accepted  in  progress occurred after completed  closed; queued  awaiting  assignment occurred after accepted  in  progress, completed  closed"
+1-602870173,"accepted  in  progress occurred before accepted  assigned, queued  awaiting  assignment; queued  awaiting  assignment occurred after accepted  in  progress; accepted  assigned occurred after accepted  in  progress, queued  awaiting  assignment"
+1-604882241,accepted  in  progress occurred before queued  awaiting  assignment; queued  awaiting  assignment occurred after accepted  in  progress
+1-607934151,completed  closed occurred before accepted  wait; accepted  wait occurred after completed  closed
+1-616288482,"accepted  in  progress occurred before accepted  assigned, accepted  wait; accepted  wait occurred after accepted  in  progress; accepted  assigned occurred after accepted  in  progress"
+1-616409083,completed  closed occurred before accepted  in  progress; accepted  in  progress occurred after completed  closed
+1-616977258,"accepted  in  progress occurred before accepted  assigned; completed  closed occurred before accepted  assigned; accepted  assigned occurred after accepted  in  progress, completed  closed"
+1-616993936,accepted  in  progress occurred before queued  awaiting  assignment; queued  awaiting  assignment occurred after accepted  in  progress
+1-617356985,"completed  closed occurred before queued  awaiting  assignment; accepted  wait occurred before accepted  in  progress; queued  awaiting  assignment occurred after accepted  in  progress, completed  closed; accepted  in  progress occurred after accepted  wait"
+1-618041243,"completed  closed occurred before accepted  in  progress, queued  awaiting  assignment; accepted  wait occurred after accepted  in  progress; accepted  in  progress occurred after completed  closed; queued  awaiting  assignment occurred after completed  closed"
+1-618116069,"completed  closed occurred before accepted  in  progress, accepted  wait; accepted  wait occurred after accepted  in  progress, completed  closed; accepted  in  progress occurred after completed  closed"
+1-618589528,accepted  in  progress occurred before accepted  assigned; accepted  assigned occurred after accepted  in  progress
+1-619067777,"accepted  in  progress occurred before accepted  wait, queued  awaiting  assignment; accepted  wait occurred after accepted  in  progress; queued  awaiting  assignment occurred after accepted  in  progress"
+1-619699161,"accepted  in  progress occurred before accepted  assigned, queued  awaiting  assignment; queued  awaiting  assignment occurred after accepted  in  progress; accepted  assigned occurred after accepted  in  progress"
+1-620015297,"completed  closed occurred before accepted  in  progress, random activity; accepted  in  progress occurred after completed  closed; random activity occurred after completed  closed"
+1-620432583,"accepted  in  progress occurred before accepted  wait, queued  awaiting  assignment; completed  closed occurred before accepted  in  progress, queued  awaiting  assignment; accepted  wait occurred after accepted  in  progress; queued  awaiting  assignment occurred after accepted  in  progress, completed  closed"
+1-621311061,completed  closed occurred before accepted  in  progress; accepted  in  progress occurred after completed  closed
+1-621393223,accepted  assigned occurred before accepted  in  progress; accepted  in  progress occurred after accepted  assigned; queued  awaiting  assignment occurred after accepted  in  progress
+1-622618613,"accepted  in  progress occurred before accepted  wait, queued  awaiting  assignment; accepted  wait occurred after accepted  in  progress; queued  awaiting  assignment occurred after accepted  in  progress"
+1-622783644,accepted  in  progress occurred before accepted  wait; accepted  wait occurred after accepted  in  progress
+1-623873811,"accepted  in  progress occurred before accepted  wait, queued  awaiting  assignment; completed  closed occurred before accepted  in  progress, queued  awaiting  assignment; accepted  wait occurred after accepted  in  progress; queued  awaiting  assignment occurred after accepted  in  progress, completed  closed"
+1-625459293,"accepted  in  progress occurred before accepted  wait, queued  awaiting  assignment; accepted  wait occurred after accepted  in  progress; queued  awaiting  assignment occurred after accepted  in  progress"
+1-626515794,accepted  in  progress occurred before accepted  assigned; accepted  assigned occurred after accepted  in  progress
+1-628203323,"completed  closed occurred before accepted  assigned, accepted  wait; accepted  in  progress occurred before accepted  assigned, accepted  wait; accepted  wait occurred after accepted  assigned, accepted  in  progress, completed  closed; accepted  assigned occurred after accepted  in  progress, completed  closed"
+1-631117870,accepted  in  progress occurred before accepted  wait; accepted  wait occurred after accepted  in  progress
+1-636080278,accepted  in  progress occurred before queued  awaiting  assignment; queued  awaiting  assignment occurred after accepted  in  progress
+1-636102195,"accepted  in  progress occurred before accepted  wait, queued  awaiting  assignment; accepted  assigned occurred before accepted  in  progress, accepted  wait; accepted  wait occurred after accepted  assigned, accepted  in  progress; queued  awaiting  assignment occurred after accepted  in  progress"
+1-636931254,"accepted  in  progress occurred before accepted  assigned, queued  awaiting  assignment; queued  awaiting  assignment occurred after accepted  in  progress; accepted  assigned occurred after accepted  in  progress"
+1-637089310,"accepted  in  progress occurred before accepted  assigned, random activity; random activity occurred after accepted  in  progress; accepted  assigned occurred after accepted  in  progress"
+1-637893062,"accepted  in  progress occurred before accepted  assigned; completed  closed occurred before accepted  assigned; accepted  assigned occurred after accepted  in  progress, completed  closed"
+1-638091067,"accepted  in  progress occurred before accepted  assigned, accepted  wait, queued  awaiting  assignment; completed  closed occurred before accepted  assigned, accepted  in  progress, queued  awaiting  assignment; accepted  assigned occurred after accepted  in  progress, completed  closed; queued  awaiting  assignment occurred after accepted  in  progress, completed  closed; accepted  wait occurred after accepted  in  progress"
+1-640387614,"accepted  in  progress occurred before queued  awaiting  assignment, random activity; queued  awaiting  assignment occurred after accepted  in  progress, random activity; random activity occurred after accepted  in  progress"
+1-641243011,accepted  in  progress occurred before accepted  assigned; accepted  assigned occurred after accepted  in  progress
+1-641323677,"completed  closed occurred before accepted  assigned, accepted  in  progress; accepted  in  progress occurred after completed  closed; accepted  assigned occurred after accepted  in  progress, completed  closed"
+1-642766943,"accepted  in  progress occurred before accepted  wait; completed  closed occurred before accepted  wait; accepted  wait occurred after accepted  in  progress, completed  closed"
+1-643706642,completed  closed occurred before accepted  in  progress; accepted  in  progress occurred after completed  closed
+1-644992956,"accepted  in  progress occurred before accepted  wait; completed  closed occurred before accepted  wait; accepted  wait occurred after accepted  in  progress, completed  closed"
+1-647796802,accepted  in  progress occurred before accepted  assigned; accepted  assigned occurred after accepted  in  progress
+1-647841758,accepted  in  progress occurred before queued  awaiting  assignment; queued  awaiting  assignment occurred after accepted  in  progress
+1-653314473,"completed  closed occurred before accepted  in  progress, queued  awaiting  assignment; accepted  in  progress occurred after completed  closed; queued  awaiting  assignment occurred after accepted  in  progress, completed  closed"
+1-656510751,"completed  closed occurred before accepted  in  progress, random activity; accepted  in  progress occurred after completed  closed; random activity occurred after completed  closed"
+1-656868426,"accepted  in  progress occurred before accepted  assigned, accepted  wait; completed  closed occurred before accepted  wait; accepted  wait occurred after accepted  assigned, accepted  in  progress, completed  closed; accepted  assigned occurred after accepted  in  progress"
+1-657063150,accepted  in  progress occurred before accepted  assigned; accepted  assigned occurred after accepted  in  progress
+1-657768145,"accepted  assigned occurred before accepted  in  progress; completed  closed occurred before accepted  in  progress; accepted  in  progress occurred after accepted  assigned, completed  closed"
+1-660268091,"accepted  in  progress occurred before queued  awaiting  assignment; completed  closed occurred before queued  awaiting  assignment; queued  awaiting  assignment occurred after accepted  in  progress, completed  closed"
+1-660903884,"accepted  in  progress occurred before queued  awaiting  assignment; completed  closed occurred before queued  awaiting  assignment; queued  awaiting  assignment occurred after accepted  in  progress, completed  closed"
+1-669119156,"completed  closed occurred before accepted  assigned, accepted  in  progress; accepted  in  progress occurred after completed  closed; accepted  assigned occurred after accepted  in  progress, completed  closed"
+1-670754761,"accepted  in  progress occurred before accepted  wait, queued  awaiting  assignment; accepted  wait occurred after accepted  in  progress; queued  awaiting  assignment occurred after accepted  in  progress"
+1-672506739,"accepted  in  progress occurred before accepted  wait, queued  awaiting  assignment; accepted  wait occurred after accepted  in  progress; queued  awaiting  assignment occurred after accepted  in  progress"
+1-675150191,"accepted  assigned occurred before accepted  in  progress, accepted  wait; completed  closed occurred before accepted  in  progress; accepted  in  progress occurred after accepted  assigned, accepted  wait, completed  closed; accepted  wait occurred after accepted  assigned"
+1-678626550,"accepted  in  progress occurred before accepted  assigned; completed  closed occurred before accepted  assigned; accepted  assigned occurred after accepted  in  progress, completed  closed"
+1-683298971,"accepted  assigned occurred before accepted  in  progress, accepted  wait; completed  closed occurred before accepted  in  progress; accepted  in  progress occurred after accepted  assigned, accepted  wait, completed  closed; accepted  wait occurred after accepted  assigned"
+1-686557724,accepted  in  progress occurred before accepted  assigned; accepted  assigned occurred after accepted  in  progress
+1-686945977,accepted  in  progress occurred before accepted  wait; accepted  wait occurred after accepted  in  progress
+1-688280019,accepted  in  progress occurred before accepted  wait; accepted  wait occurred after accepted  in  progress
+1-688380091,"random activity occurred before queued  awaiting  assignment; accepted  in  progress occurred before accepted  wait, queued  awaiting  assignment; queued  awaiting  assignment occurred after accepted  in  progress, random activity; accepted  wait occurred after accepted  in  progress"
+1-688564824,"accepted  in  progress occurred before accepted  assigned, queued  awaiting  assignment; queued  awaiting  assignment occurred after accepted  in  progress; accepted  assigned occurred after accepted  in  progress"
+1-689469104,completed  closed occurred before accepted  in  progress; accepted  in  progress occurred after completed  closed
+1-690931471,accepted  in  progress occurred before queued  awaiting  assignment; queued  awaiting  assignment occurred after accepted  in  progress
+1-691093464,accepted  in  progress occurred before queued  awaiting  assignment; queued  awaiting  assignment occurred after accepted  in  progress
+1-691786096,"accepted  in  progress occurred before accepted  assigned, queued  awaiting  assignment; completed  closed occurred before accepted  assigned, accepted  in  progress, queued  awaiting  assignment; accepted  assigned occurred after accepted  in  progress, completed  closed, queued  awaiting  assignment; queued  awaiting  assignment occurred after accepted  in  progress, completed  closed"
+1-691786330,completed  closed occurred before accepted  assigned; accepted  assigned occurred after completed  closed
+1-694222066,"random activity occurred before accepted  assigned, queued  awaiting  assignment; accepted  in  progress occurred before accepted  assigned, queued  awaiting  assignment, random activity; accepted  assigned occurred after accepted  in  progress, queued  awaiting  assignment, random activity; queued  awaiting  assignment occurred after accepted  in  progress, random activity"
+1-694794065,"accepted  in  progress occurred before accepted  assigned, random activity; accepted  assigned occurred after accepted  in  progress, random activity; random activity occurred after accepted  in  progress"
+1-696680265,"accepted  in  progress occurred before accepted  wait, queued  awaiting  assignment; completed  closed occurred before accepted  wait; accepted  wait occurred after accepted  in  progress, completed  closed; queued  awaiting  assignment occurred after accepted  in  progress"
+1-697041731,accepted  in  progress occurred before accepted  wait; accepted  wait occurred after accepted  in  progress
+1-697458590,"accepted  in  progress occurred before accepted  assigned, queued  awaiting  assignment; completed  closed occurred before accepted  assigned, queued  awaiting  assignment; accepted  assigned occurred after accepted  in  progress, completed  closed; queued  awaiting  assignment occurred after accepted  in  progress, completed  closed; accepted  wait occurred after accepted  assigned"
+1-698044001,"accepted  in  progress occurred before accepted  assigned, queued  awaiting  assignment; queued  awaiting  assignment occurred after accepted  in  progress; accepted  assigned occurred after accepted  in  progress, queued  awaiting  assignment"
+1-698998499,"accepted  in  progress occurred before accepted  wait, queued  awaiting  assignment; completed  closed occurred before queued  awaiting  assignment; accepted  wait occurred after accepted  in  progress; queued  awaiting  assignment occurred after accepted  in  progress, completed  closed"
+1-700498223,"accepted  in  progress occurred before accepted  wait, queued  awaiting  assignment; accepted  wait occurred after accepted  in  progress; queued  awaiting  assignment occurred after accepted  in  progress"
+1-701429911,"accepted  in  progress occurred before accepted  assigned, accepted  wait; accepted  wait occurred after accepted  assigned, accepted  in  progress; accepted  assigned occurred after accepted  in  progress"
+1-703190797,accepted  in  progress occurred before queued  awaiting  assignment; queued  awaiting  assignment occurred after accepted  in  progress
+1-703399394,"accepted  in  progress occurred before queued  awaiting  assignment; completed  closed occurred before queued  awaiting  assignment; queued  awaiting  assignment occurred after accepted  in  progress, completed  closed"
+1-703540157,"accepted  in  progress occurred before accepted  wait, queued  awaiting  assignment; accepted  wait occurred after accepted  in  progress; queued  awaiting  assignment occurred after accepted  in  progress"
+1-704650867,accepted  in  progress occurred before queued  awaiting  assignment; queued  awaiting  assignment occurred after accepted  in  progress
+1-707300171,"accepted  in  progress occurred before accepted  assigned, queued  awaiting  assignment; completed  closed occurred before queued  awaiting  assignment; accepted  wait occurred before accepted  in  progress; accepted  assigned occurred after accepted  in  progress, queued  awaiting  assignment; queued  awaiting  assignment occurred after accepted  in  progress, completed  closed"
+1-710114300,"accepted  in  progress occurred before accepted  assigned, queued  awaiting  assignment; queued  awaiting  assignment occurred after accepted  in  progress; accepted  assigned occurred after accepted  in  progress, queued  awaiting  assignment"
+1-712856449,accepted  in  progress occurred before queued  awaiting  assignment; queued  awaiting  assignment occurred after accepted  in  progress
+1-716154984,"completed  closed occurred before accepted  in  progress, queued  awaiting  assignment; accepted  in  progress occurred after completed  closed; queued  awaiting  assignment occurred after completed  closed"
+1-720069371,accepted  in  progress occurred before accepted  wait; accepted  wait occurred after accepted  in  progress
+1-722674364,accepted  in  progress occurred before queued  awaiting  assignment; queued  awaiting  assignment occurred after accepted  in  progress; accepted  assigned occurred after queued  awaiting  assignment
+1-722688743,accepted  in  progress occurred before queued  awaiting  assignment; queued  awaiting  assignment occurred after accepted  in  progress
+1-726517211,accepted  in  progress occurred before queued  awaiting  assignment; queued  awaiting  assignment occurred after accepted  in  progress
+1-728470722,accepted  in  progress occurred after accepted  assigned; accepted  assigned occurred after accepted  in  progress
+1-730084841,completed  closed occurred before queued  awaiting  assignment; queued  awaiting  assignment occurred after completed  closed
+1-732289301,queued  awaiting  assignment occurred before accepted  assigned; accepted  in  progress occurred after accepted  assigned; accepted  assigned occurred after queued  awaiting  assignment
+1-733562890,accepted  wait occurred before accepted  in  progress; queued  awaiting  assignment occurred after accepted  in  progress; accepted  in  progress occurred after accepted  wait
+1-736351127,accepted  in  progress occurred before queued  awaiting  assignment; queued  awaiting  assignment occurred after accepted  in  progress
+1-736351222,accepted  in  progress occurred before queued  awaiting  assignment; queued  awaiting  assignment occurred after accepted  in  progress
+1-738300041,"accepted  assigned occurred before accepted  in  progress, accepted  wait; accepted  in  progress occurred before accepted  wait, queued  awaiting  assignment; accepted  wait occurred after accepted  assigned, accepted  in  progress; queued  awaiting  assignment occurred after accepted  in  progress"
+1-738322892,accepted  in  progress occurred before queued  awaiting  assignment; queued  awaiting  assignment occurred after accepted  in  progress
+1-738501821,accepted  assigned occurred before accepted  in  progress; accepted  in  progress occurred after accepted  assigned; queued  awaiting  assignment occurred after accepted  in  progress
+1-738520030,queued  awaiting  assignment occurred before accepted  assigned; accepted  in  progress occurred after accepted  assigned; accepted  assigned occurred after queued  awaiting  assignment
+1-738520140,"accepted  in  progress occurred before accepted  assigned, queued  awaiting  assignment; queued  awaiting  assignment occurred after accepted  in  progress; accepted  assigned occurred after accepted  in  progress, queued  awaiting  assignment"
+1-738520280,"accepted  in  progress occurred before accepted  assigned, queued  awaiting  assignment; queued  awaiting  assignment occurred after accepted  in  progress; accepted  assigned occurred after accepted  in  progress"
+1-738520420,accepted  assigned occurred before accepted  in  progress; accepted  in  progress occurred after accepted  assigned; queued  awaiting  assignment occurred after accepted  in  progress
+1-738820974,accepted  in  progress occurred before accepted  assigned; accepted  assigned occurred after accepted  in  progress
+1-739385022,accepted  in  progress occurred before accepted  wait; accepted  wait occurred after accepted  in  progress
+1-739633778,"accepted  in  progress occurred before accepted  assigned, queued  awaiting  assignment; queued  awaiting  assignment occurred after accepted  in  progress; accepted  assigned occurred after accepted  in  progress"
+1-739695919,completed  closed occurred before queued  awaiting  assignment; queued  awaiting  assignment occurred after completed  closed
+1-740597491,accepted  in  progress occurred before queued  awaiting  assignment; queued  awaiting  assignment occurred after accepted  in  progress
+1-740681141,"accepted  in  progress occurred before accepted  assigned, queued  awaiting  assignment; queued  awaiting  assignment occurred after accepted  in  progress; accepted  assigned occurred after accepted  in  progress"
+1-740740981,accepted  in  progress occurred before queued  awaiting  assignment; queued  awaiting  assignment occurred after accepted  in  progress
+1-741987554,accepted  wait occurred before accepted  in  progress; queued  awaiting  assignment occurred after accepted  in  progress; accepted  in  progress occurred after accepted  wait
+1-742295367,accepted  wait occurred before accepted  in  progress; accepted  assigned occurred after accepted  in  progress; accepted  in  progress occurred after accepted  wait
+1-742894028,"accepted  in  progress occurred before accepted  assigned, accepted  wait; accepted  wait occurred after accepted  assigned, accepted  in  progress; accepted  assigned occurred after accepted  in  progress"
+1-743091195,accepted  in  progress occurred before queued  awaiting  assignment; queued  awaiting  assignment occurred after accepted  in  progress
+1-743163074,"accepted  in  progress occurred before accepted  wait; random activity occurred before accepted  wait; accepted  wait occurred after accepted  in  progress, random activity"
+1-743404481,"random activity occurred before accepted  assigned; accepted  in  progress occurred before accepted  assigned; accepted  assigned occurred after accepted  in  progress, random activity"
+1-743606342,accepted  in  progress occurred before queued  awaiting  assignment; queued  awaiting  assignment occurred after accepted  in  progress
+1-745770713,"accepted  in  progress occurred before accepted  assigned, queued  awaiting  assignment; queued  awaiting  assignment occurred after accepted  in  progress; accepted  assigned occurred after accepted  in  progress"
+1-746464884,"accepted  in  progress occurred before accepted  wait, queued  awaiting  assignment; accepted  wait occurred after accepted  in  progress; queued  awaiting  assignment occurred after accepted  in  progress"
+1-747147181,accepted  in  progress occurred before accepted  wait; accepted  wait occurred after accepted  in  progress
+1-747371909,accepted  assigned occurred before accepted  in  progress; accepted  in  progress occurred after accepted  assigned
+1-747473781,"queued  awaiting  assignment occurred before accepted  assigned; accepted  in  progress occurred before accepted  assigned; accepted  assigned occurred after accepted  in  progress, queued  awaiting  assignment"
+1-747689792,accepted  wait occurred before accepted  in  progress; accepted  assigned occurred after accepted  in  progress; accepted  in  progress occurred after accepted  wait
+1-748341709,accepted  assigned occurred before accepted  wait; accepted  wait occurred after accepted  assigned
+1-749119026,accepted  in  progress occurred before queued  awaiting  assignment; queued  awaiting  assignment occurred after accepted  in  progress
+1-749313527,accepted  wait occurred before accepted  in  progress; accepted  in  progress occurred after accepted  wait
+1-749375951,accepted  in  progress occurred before accepted  wait; accepted  wait occurred after accepted  in  progress
+1-749851721,"accepted  in  progress occurred before accepted  wait, queued  awaiting  assignment; accepted  wait occurred after accepted  in  progress; queued  awaiting  assignment occurred after accepted  in  progress"
+1-750007716,"accepted  in  progress occurred before accepted  wait, queued  awaiting  assignment; accepted  wait occurred after accepted  in  progress; queued  awaiting  assignment occurred after accepted  in  progress"
+1-750090643,"accepted  in  progress occurred before accepted  wait, queued  awaiting  assignment; accepted  wait occurred after accepted  in  progress; queued  awaiting  assignment occurred after accepted  in  progress"
+1-750106623,"accepted  in  progress occurred before accepted  assigned, queued  awaiting  assignment; queued  awaiting  assignment occurred after accepted  in  progress; accepted  assigned occurred after accepted  in  progress, queued  awaiting  assignment"
+1-750411941,accepted  in  progress occurred before accepted  wait; accepted  wait occurred after accepted  in  progress
+1-750499270,"accepted  in  progress occurred before accepted  assigned, queued  awaiting  assignment; accepted  wait occurred before accepted  in  progress; queued  awaiting  assignment occurred after accepted  in  progress; accepted  assigned occurred after accepted  in  progress"
+1-750717620,accepted  assigned occurred before accepted  in  progress; accepted  in  progress occurred after accepted  assigned; queued  awaiting  assignment occurred after accepted  in  progress
+1-752141231,accepted  in  progress occurred before queued  awaiting  assignment; queued  awaiting  assignment occurred after accepted  in  progress
+1-752294640,queued  awaiting  assignment occurred before accepted  assigned; accepted  assigned occurred after queued  awaiting  assignment
+1-752294659,"accepted  in  progress occurred before accepted  assigned, queued  awaiting  assignment; queued  awaiting  assignment occurred after accepted  in  progress; accepted  assigned occurred after accepted  in  progress"
+1-752828161,"accepted  in  progress occurred before accepted  assigned, queued  awaiting  assignment; queued  awaiting  assignment occurred after accepted  in  progress; accepted  assigned occurred after accepted  in  progress"
+1-753245663,accepted  in  progress occurred before queued  awaiting  assignment; queued  awaiting  assignment occurred after accepted  in  progress
+1-753487360,"accepted  in  progress occurred before accepted  wait, queued  awaiting  assignment; accepted  wait occurred after accepted  in  progress; queued  awaiting  assignment occurred after accepted  in  progress"
+1-753504966,"accepted  in  progress occurred before accepted  wait, queued  awaiting  assignment; accepted  wait occurred after accepted  in  progress; queued  awaiting  assignment occurred after accepted  in  progress"
+1-754168350,"queued  awaiting  assignment occurred before accepted  assigned; accepted  in  progress occurred before accepted  assigned; accepted  assigned occurred after accepted  in  progress, queued  awaiting  assignment"
+1-754350709,accepted  wait occurred before accepted  in  progress; accepted  in  progress occurred after accepted  wait
+1-754949761,"accepted  in  progress occurred before accepted  assigned, accepted  wait, queued  awaiting  assignment; accepted  wait occurred after accepted  in  progress; queued  awaiting  assignment occurred after accepted  in  progress; accepted  assigned occurred after accepted  in  progress"
+1-756110987,accepted  in  progress occurred before queued  awaiting  assignment; queued  awaiting  assignment occurred after accepted  in  progress
+1-756296231,accepted  in  progress occurred before accepted  assigned; accepted  assigned occurred after accepted  in  progress
+1-756484463,accepted  wait occurred before accepted  in  progress; accepted  in  progress occurred after accepted  wait
+1-756651699,"accepted  assigned occurred before accepted  in  progress; accepted  wait occurred before accepted  in  progress; accepted  in  progress occurred after accepted  assigned, accepted  wait"
+1-756998975,accepted  in  progress occurred before random activity; random activity occurred after accepted  in  progress
+1-757096237,"accepted  in  progress occurred before accepted  assigned, accepted  wait; accepted  wait occurred after accepted  assigned, accepted  in  progress; accepted  assigned occurred after accepted  in  progress"
+1-757113161,"random activity occurred before queued  awaiting  assignment; accepted  in  progress occurred before queued  awaiting  assignment; queued  awaiting  assignment occurred after accepted  in  progress, random activity"
+1-757154661,"queued  awaiting  assignment occurred before accepted  assigned; accepted  in  progress occurred before accepted  assigned; accepted  assigned occurred after accepted  in  progress, queued  awaiting  assignment"
+1-757480343,queued  awaiting  assignment occurred before accepted  assigned; accepted  in  progress occurred after accepted  assigned; accepted  assigned occurred after queued  awaiting  assignment
+1-757671208,accepted  in  progress occurred before accepted  wait; accepted  wait occurred after accepted  in  progress
+1-758488261,accepted  in  progress occurred before queued  awaiting  assignment; queued  awaiting  assignment occurred after accepted  in  progress

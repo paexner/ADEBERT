@@ -1,0 +1,61 @@
+Anomaly ; freq
+ accepted  wait occurred before accepted  in  progress ; 85
+ accepted  in  progress occurred after accepted  wait ; 65
+ accepted  in  progress occurred before accepted  assigned ; 34
+ accepted  assigned occurred after accepted  in  progress ; 32
+ accepted  in  progress occurred before accepted  wait ; 35
+ accepted  wait occurred after accepted  in  progress ; 40
+ accepted  wait occurred before accepted  assigned, accepted  in  progress, completed  closed ; 5
+ queued  awaiting  assignment occurred before accepted  in  progress ; 145
+ accepted  assigned occurred before accepted  in  progress, completed  closed ; 14
+ completed  closed occurred after accepted  assigned, accepted  wait ; 4
+ accepted  in  progress occurred after accepted  assigned, accepted  wait, queued  awaiting  assignment ; 3
+ accepted  wait occurred before accepted  assigned, accepted  in  progress ; 6
+ accepted  assigned occurred before accepted  in  progress ; 101
+ accepted  in  progress occurred after accepted  assigned, accepted  wait ; 9
+ completed  closed occurred after accepted  in  progress ; 70
+ accepted  in  progress occurred after accepted  assigned, queued  awaiting  assignment ; 26
+ accepted  in  progress occurred before accepted  assigned, accepted  wait ; 5
+ accepted  wait occurred before accepted  assigned ; 7
+ accepted  assigned occurred after accepted  in  progress, accepted  wait ; 8
+ queued  awaiting  assignment occurred after accepted  assigned ; 9
+ accepted  in  progress occurred after queued  awaiting  assignment ; 95
+ accepted  in  progress occurred before completed  closed ; 83
+ accepted  in  progress occurred after accepted  assigned ; 81
+ accepted  wait occurred before completed  closed ; 7
+ accepted  assigned occurred before completed  closed ; 3
+ accepted  in  progress occurred after accepted  wait, queued  awaiting  assignment ; 26
+ accepted  in  progress occurred before accepted  wait, completed  closed ; 7
+ completed  closed occurred after accepted  assigned, accepted  in  progress ; 6
+ completed  closed occurred after accepted  wait ; 14
+ accepted  wait occurred before accepted  in  progress, completed  closed ; 15
+ accepted  assigned occurred before accepted  in  progress, queued  awaiting  assignment ; 12
+ accepted  assigned occurred before queued  awaiting  assignment ; 7
+ accepted  wait occurred before accepted  assigned, completed  closed ; 1
+ accepted  assigned occurred after accepted  wait ; 2
+ accepted  in  progress occurred before accepted  assigned, completed  closed ; 3
+ completed  closed occurred after accepted  in  progress, accepted  wait ; 10
+ accepted  in  progress occurred before accepted  assigned, accepted  wait, completed  closed ; 3
+ queued  awaiting  assignment occurred before accepted  in  progress, random activity ; 5
+ random activity occurred after queued  awaiting  assignment ; 3
+ queued  awaiting  assignment occurred before accepted  in  progress, completed  closed ; 20
+ completed  closed occurred after accepted  in  progress, queued  awaiting  assignment ; 9
+ completed  closed occurred after queued  awaiting  assignment ; 12
+ completed  closed occurred after accepted  assigned ; 5
+ queued  awaiting  assignment occurred before completed  closed ; 4
+ random activity occurred before completed  closed ; 4
+ completed  closed occurred after accepted  in  progress, random activity ; 4
+ random activity occurred before accepted  in  progress ; 4
+ accepted  in  progress occurred after accepted  assigned, random activity ; 2
+ completed  closed occurred after accepted  assigned, accepted  in  progress, queued  awaiting  assignment ; 2
+ accepted  in  progress occurred after queued  awaiting  assignment, random activity ; 1
+ accepted  assigned occurred before accepted  in  progress, completed  closed, queued  awaiting  assignment ; 1
+ accepted  assigned occurred before accepted  in  progress, queued  awaiting  assignment, random activity ; 1
+ random activity occurred after accepted  assigned, queued  awaiting  assignment ; 1
+ accepted  in  progress occurred after accepted  assigned, queued  awaiting  assignment, random activity ; 1
+ accepted  assigned occurred before accepted  in  progress, random activity ; 4
+ completed  closed occurred after accepted  assigned, queued  awaiting  assignment ; 1
+ accepted  wait occurred before accepted  in  progress, random activity ; 2
+ random activity occurred after accepted  wait ; 2
+ random activity occurred after accepted  assigned ; 3
+ accepted  in  progress occurred after random activity ; 1

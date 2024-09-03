@@ -1,0 +1,874 @@
+
+applying approach on input/event_logs/bpic13-0.2-3.xes
+tensor([1])
+Anomaly in 1-147898401: accepted  in  progress occurred before accepted  wait
+Anomaly in 1-147898401: accepted  wait occurred after accepted  in  progress
+tensor([1])
+Anomaly in 1-165554831: accepted  in  progress occurred before accepted  wait
+Anomaly in 1-165554831: accepted  wait occurred after accepted  in  progress
+tensor([0, 0, 0, 1, 1])
+Anomaly in 1-182640781: accepted  assigned occurred before accepted  in  progress
+Anomaly in 1-182640781: accepted  wait occurred after accepted  in  progress
+Anomaly in 1-182640781: accepted  in  progress occurred after accepted  assigned
+tensor([1])
+Anomaly in 1-230541365: accepted  wait occurred before accepted  in  progress
+Anomaly in 1-230541365: accepted  in  progress occurred after accepted  wait
+tensor([1, 1, 1, 0, 1, 1, 1])
+Anomaly in 1-236817141: completed  closed occurred before accepted  assigned, accepted  wait
+Anomaly in 1-236817141: accepted  in  progress occurred before accepted  assigned, accepted  wait, queued  awaiting  assignment
+Anomaly in 1-236817141: accepted  wait occurred after accepted  assigned, accepted  in  progress, completed  closed
+Anomaly in 1-236817141: queued  awaiting  assignment occurred after accepted  in  progress
+Anomaly in 1-236817141: accepted  assigned occurred after accepted  in  progress, completed  closed
+tensor([1])
+Anomaly in 1-270427461: accepted  in  progress occurred before accepted  wait
+Anomaly in 1-270427461: accepted  wait occurred after accepted  in  progress
+tensor([1, 1, 1])
+Anomaly in 1-345132462: accepted  in  progress occurred before accepted  assigned, accepted  wait
+Anomaly in 1-345132462: accepted  wait occurred after accepted  assigned, accepted  in  progress
+Anomaly in 1-345132462: accepted  assigned occurred after accepted  in  progress
+tensor([1, 1, 0, 1])
+Anomaly in 1-351314317: completed  closed occurred before accepted  in  progress
+Anomaly in 1-351314317: accepted  in  progress occurred before accepted  assigned, queued  awaiting  assignment
+Anomaly in 1-351314317: queued  awaiting  assignment occurred after accepted  in  progress
+Anomaly in 1-351314317: accepted  assigned occurred after accepted  in  progress
+tensor([0])
+tensor([1])
+Anomaly in 1-354350908: accepted  wait occurred before accepted  in  progress
+Anomaly in 1-354350908: accepted  in  progress occurred after accepted  wait
+tensor([1, 1])
+Anomaly in 1-359841262: accepted  in  progress occurred before accepted  assigned, queued  awaiting  assignment
+Anomaly in 1-359841262: queued  awaiting  assignment occurred after accepted  in  progress
+Anomaly in 1-359841262: accepted  assigned occurred after accepted  in  progress
+tensor([1, 1, 0, 1, 1, 0])
+Anomaly in 1-360072755: accepted  assigned occurred before accepted  in  progress, accepted  wait
+Anomaly in 1-360072755: queued  awaiting  assignment occurred before accepted  assigned
+Anomaly in 1-360072755: accepted  in  progress occurred after accepted  assigned, accepted  wait
+Anomaly in 1-360072755: accepted  wait occurred after accepted  assigned
+tensor([0, 1])
+Anomaly in 1-360464815: accepted  wait occurred before accepted  in  progress
+Anomaly in 1-360464815: accepted  in  progress occurred after accepted  wait
+tensor([1])
+Anomaly in 1-363206822: accepted  in  progress occurred before queued  awaiting  assignment
+Anomaly in 1-363206822: queued  awaiting  assignment occurred after accepted  in  progress
+tensor([0])
+[]
+tensor([1])
+Anomaly in 1-366923538: completed  closed occurred before accepted  in  progress
+Anomaly in 1-366923538: accepted  in  progress occurred after completed  closed
+tensor([0, 0, 1, 0])
+Anomaly in 1-367921041: accepted  in  progress occurred before accepted  assigned
+Anomaly in 1-367921041: accepted  assigned occurred after accepted  in  progress
+tensor([1])
+Anomaly in 1-370436092: accepted  in  progress occurred before queued  awaiting  assignment
+Anomaly in 1-370436092: queued  awaiting  assignment occurred after accepted  in  progress
+tensor([1, 0, 1])
+Anomaly in 1-372029512: completed  closed occurred before accepted  assigned, accepted  wait
+Anomaly in 1-372029512: accepted  wait occurred after completed  closed
+Anomaly in 1-372029512: accepted  assigned occurred after completed  closed
+tensor([0, 0, 0])
+tensor([1, 0, 0])
+Anomaly in 1-374832944: accepted  assigned occurred before accepted  in  progress
+Anomaly in 1-374832944: accepted  in  progress occurred after accepted  assigned
+tensor([1, 1, 0])
+Anomaly in 1-375644051: accepted  in  progress occurred before accepted  wait, queued  awaiting  assignment
+Anomaly in 1-375644051: accepted  wait occurred after accepted  in  progress
+Anomaly in 1-375644051: queued  awaiting  assignment occurred after accepted  in  progress
+tensor([1, 0])
+Anomaly in 1-378050311: accepted  in  progress occurred before queued  awaiting  assignment
+Anomaly in 1-378050311: queued  awaiting  assignment occurred after accepted  in  progress
+tensor([1])
+Anomaly in 1-380632889: accepted  in  progress occurred before queued  awaiting  assignment
+Anomaly in 1-380632889: queued  awaiting  assignment occurred after accepted  in  progress
+tensor([1])
+Anomaly in 1-382209384: accepted  assigned occurred before accepted  in  progress
+Anomaly in 1-382209384: accepted  in  progress occurred after accepted  assigned
+tensor([1, 1, 1])
+Anomaly in 1-384097130: accepted  assigned occurred before accepted  in  progress, accepted  wait
+Anomaly in 1-384097130: accepted  in  progress occurred after accepted  assigned, accepted  wait
+Anomaly in 1-384097130: accepted  wait occurred after accepted  assigned
+tensor([1, 0, 1, 0, 1, 1, 0, 1])
+Anomaly in 1-385201933: completed  closed occurred before accepted  assigned, accepted  in  progress
+Anomaly in 1-385201933: accepted  assigned occurred after accepted  in  progress, completed  closed
+Anomaly in 1-385201933: accepted  wait occurred after accepted  in  progress
+Anomaly in 1-385201933: accepted  in  progress occurred after accepted  wait, completed  closed
+tensor([0, 1, 1])
+Anomaly in 1-390250582: accepted  wait occurred before accepted  in  progress
+Anomaly in 1-390250582: accepted  assigned occurred after accepted  in  progress
+Anomaly in 1-390250582: accepted  in  progress occurred after accepted  wait
+tensor([0, 1])
+Anomaly in 1-390722958: accepted  in  progress occurred before accepted  assigned
+Anomaly in 1-390722958: accepted  assigned occurred after accepted  in  progress
+[]
+tensor([1])
+Anomaly in 1-399628501: accepted  in  progress occurred before accepted  assigned
+Anomaly in 1-399628501: accepted  assigned occurred after accepted  in  progress
+tensor([1, 1])
+Anomaly in 1-404005175: completed  closed occurred before accepted  wait
+Anomaly in 1-404005175: accepted  wait occurred after completed  closed
+Anomaly in 1-404005175: accepted  in  progress occurred after accepted  wait
+tensor([0, 1])
+Anomaly in 1-404084309: accepted  wait occurred before accepted  in  progress
+Anomaly in 1-404084309: accepted  in  progress occurred after accepted  wait
+tensor([1, 1, 0])
+Anomaly in 1-404736991: accepted  in  progress occurred before accepted  wait
+Anomaly in 1-404736991: completed  closed occurred before accepted  wait
+Anomaly in 1-404736991: accepted  wait occurred after accepted  in  progress, completed  closed
+tensor([0, 1, 1, 0, 1, 0])
+Anomaly in 1-413205820: accepted  in  progress occurred before accepted  assigned, queued  awaiting  assignment
+Anomaly in 1-413205820: queued  awaiting  assignment occurred after accepted  in  progress
+Anomaly in 1-413205820: accepted  assigned occurred after accepted  in  progress, queued  awaiting  assignment
+tensor([1, 0, 1, 0])
+Anomaly in 1-415000020: accepted  in  progress occurred before accepted  wait, queued  awaiting  assignment
+Anomaly in 1-415000020: accepted  wait occurred after accepted  in  progress
+Anomaly in 1-415000020: queued  awaiting  assignment occurred after accepted  in  progress
+tensor([1, 1, 0, 0])
+Anomaly in 1-415822336: accepted  in  progress occurred before accepted  wait, queued  awaiting  assignment
+Anomaly in 1-415822336: accepted  wait occurred after accepted  in  progress
+Anomaly in 1-415822336: queued  awaiting  assignment occurred after accepted  in  progress
+tensor([1, 1])
+Anomaly in 1-422418092: accepted  in  progress occurred before queued  awaiting  assignment
+Anomaly in 1-422418092: queued  awaiting  assignment occurred after accepted  in  progress
+Anomaly in 1-422418092: accepted  assigned occurred after queued  awaiting  assignment
+tensor([1, 0, 0])
+Anomaly in 1-427955007: accepted  in  progress occurred before accepted  wait
+Anomaly in 1-427955007: accepted  wait occurred after accepted  in  progress
+tensor([1, 1, 0])
+Anomaly in 1-429498598: completed  closed occurred before accepted  wait
+Anomaly in 1-429498598: accepted  assigned occurred before accepted  wait
+Anomaly in 1-429498598: accepted  wait occurred after accepted  assigned, completed  closed
+tensor([1, 0, 1])
+Anomaly in 1-430880486: completed  closed occurred before accepted  in  progress
+Anomaly in 1-430880486: accepted  wait occurred before accepted  in  progress
+Anomaly in 1-430880486: accepted  in  progress occurred after accepted  wait, completed  closed
+tensor([1, 1, 1])
+Anomaly in 1-433910332: accepted  assigned occurred before accepted  in  progress
+Anomaly in 1-433910332: accepted  wait occurred after accepted  in  progress
+Anomaly in 1-433910332: accepted  in  progress occurred after accepted  assigned, accepted  wait
+tensor([1, 1, 0])
+Anomaly in 1-439833168: accepted  in  progress occurred before accepted  wait
+Anomaly in 1-439833168: completed  closed occurred before accepted  wait
+Anomaly in 1-439833168: accepted  wait occurred after accepted  in  progress, completed  closed
+tensor([1, 0, 1, 0])
+Anomaly in 1-473084325: accepted  in  progress occurred before accepted  wait, queued  awaiting  assignment
+Anomaly in 1-473084325: accepted  wait occurred after accepted  in  progress
+Anomaly in 1-473084325: queued  awaiting  assignment occurred after accepted  in  progress
+tensor([0, 0, 1])
+Anomaly in 1-479002951: accepted  wait occurred before accepted  in  progress
+Anomaly in 1-479002951: accepted  in  progress occurred after accepted  wait
+tensor([1, 0, 0])
+Anomaly in 1-489198755: accepted  in  progress occurred before accepted  wait
+Anomaly in 1-489198755: accepted  wait occurred after accepted  in  progress
+tensor([1])
+Anomaly in 1-498324124: accepted  assigned occurred before accepted  in  progress
+Anomaly in 1-498324124: accepted  in  progress occurred after accepted  assigned
+tensor([0, 0, 1])
+Anomaly in 1-502769178: accepted  wait occurred before accepted  in  progress
+Anomaly in 1-502769178: accepted  in  progress occurred after accepted  wait
+tensor([1, 1, 1, 1, 1, 1, 0])
+Anomaly in 1-512617571: completed  closed occurred before accepted  in  progress, accepted  wait
+Anomaly in 1-512617571: accepted  assigned occurred before accepted  in  progress, accepted  wait
+Anomaly in 1-512617571: accepted  wait occurred after accepted  assigned, accepted  in  progress, completed  closed
+Anomaly in 1-512617571: accepted  in  progress occurred after accepted  assigned, completed  closed
+tensor([0, 0, 1])
+Anomaly in 1-514618724: accepted  wait occurred before accepted  in  progress
+Anomaly in 1-514618724: accepted  in  progress occurred after accepted  wait
+tensor([0, 1, 1, 0, 0, 1])
+Anomaly in 1-515461174: accepted  assigned occurred before accepted  in  progress
+Anomaly in 1-515461174: completed  closed occurred before accepted  in  progress
+Anomaly in 1-515461174: accepted  wait occurred before accepted  in  progress
+Anomaly in 1-515461174: accepted  in  progress occurred after accepted  assigned, accepted  wait, completed  closed
+tensor([1, 1, 1])
+Anomaly in 1-520127960: completed  closed occurred before accepted  assigned, accepted  in  progress
+Anomaly in 1-520127960: accepted  in  progress occurred after completed  closed
+Anomaly in 1-520127960: accepted  assigned occurred after accepted  in  progress, completed  closed
+tensor([1, 1, 1])
+Anomaly in 1-520705880: completed  closed occurred before accepted  in  progress, accepted  wait
+Anomaly in 1-520705880: accepted  wait occurred after accepted  in  progress, completed  closed
+Anomaly in 1-520705880: accepted  in  progress occurred after completed  closed
+tensor([0])
+tensor([1, 0])
+Anomaly in 1-524375607: accepted  assigned occurred before accepted  in  progress
+Anomaly in 1-524375607: accepted  in  progress occurred after accepted  assigned
+tensor([0, 0, 1])
+Anomaly in 1-531872604: accepted  wait occurred before accepted  in  progress
+Anomaly in 1-531872604: accepted  in  progress occurred after accepted  wait
+tensor([1, 0, 0])
+Anomaly in 1-535418135: accepted  in  progress occurred before accepted  wait
+Anomaly in 1-535418135: accepted  wait occurred after accepted  in  progress
+tensor([1])
+Anomaly in 1-537169872: queued  awaiting  assignment occurred before accepted  assigned
+Anomaly in 1-537169872: accepted  assigned occurred after queued  awaiting  assignment
+tensor([1, 1, 1])
+Anomaly in 1-539083171: completed  closed occurred before accepted  assigned, accepted  in  progress
+Anomaly in 1-539083171: accepted  in  progress occurred after accepted  assigned, completed  closed
+Anomaly in 1-539083171: accepted  assigned occurred after completed  closed
+tensor([1, 1, 1])
+Anomaly in 1-539805130: completed  closed occurred before accepted  in  progress, accepted  wait
+Anomaly in 1-539805130: accepted  in  progress occurred after accepted  wait, completed  closed
+Anomaly in 1-539805130: accepted  wait occurred after completed  closed
+tensor([0])
+tensor([1])
+Anomaly in 1-542027112: accepted  in  progress occurred before accepted  assigned
+Anomaly in 1-542027112: accepted  assigned occurred after accepted  in  progress
+tensor([1, 0])
+Anomaly in 1-542940765: accepted  in  progress occurred before queued  awaiting  assignment
+Anomaly in 1-542940765: queued  awaiting  assignment occurred after accepted  in  progress
+tensor([1])
+Anomaly in 1-543300099: accepted  in  progress occurred before accepted  assigned
+Anomaly in 1-543300099: accepted  assigned occurred after accepted  in  progress
+tensor([0, 0, 0])
+tensor([0, 0, 0, 0, 1, 0])
+Anomaly in 1-546838031: accepted  in  progress occurred before accepted  wait
+Anomaly in 1-546838031: accepted  wait occurred after accepted  in  progress
+tensor([1, 1, 0, 1])
+Anomaly in 1-547617088: accepted  assigned occurred before accepted  in  progress, accepted  wait
+Anomaly in 1-547617088: accepted  in  progress occurred after accepted  assigned, accepted  wait
+Anomaly in 1-547617088: accepted  wait occurred after accepted  assigned
+tensor([1, 0, 1])
+Anomaly in 1-560404489: accepted  in  progress occurred before accepted  wait, queued  awaiting  assignment
+Anomaly in 1-560404489: accepted  wait occurred after accepted  in  progress
+Anomaly in 1-560404489: queued  awaiting  assignment occurred after accepted  in  progress
+tensor([1, 0, 1])
+Anomaly in 1-563779807: accepted  in  progress occurred before accepted  assigned, accepted  wait
+Anomaly in 1-563779807: accepted  wait occurred after accepted  in  progress
+Anomaly in 1-563779807: accepted  assigned occurred after accepted  in  progress
+tensor([1, 0, 0])
+Anomaly in 1-564738994: accepted  in  progress occurred before accepted  wait
+Anomaly in 1-564738994: accepted  wait occurred after accepted  in  progress
+tensor([1])
+Anomaly in 1-572078531: accepted  in  progress occurred before queued  awaiting  assignment
+Anomaly in 1-572078531: queued  awaiting  assignment occurred after accepted  in  progress
+tensor([1, 0, 1])
+Anomaly in 1-573830584: accepted  in  progress occurred after accepted  assigned
+Anomaly in 1-573830584: accepted  assigned occurred after accepted  in  progress
+tensor([1, 0, 1, 0])
+Anomaly in 1-574222268: accepted  in  progress occurred after accepted  assigned
+Anomaly in 1-574222268: accepted  assigned occurred after accepted  in  progress
+tensor([1, 0, 0])
+Anomaly in 1-574623837: accepted  assigned occurred before accepted  in  progress
+Anomaly in 1-574623837: accepted  in  progress occurred after accepted  assigned
+tensor([0])
+tensor([0, 0, 0])
+tensor([0])
+tensor([0, 1, 1, 0, 1, 0])
+Anomaly in 1-578612990: accepted  in  progress occurred before accepted  assigned, queued  awaiting  assignment
+Anomaly in 1-578612990: queued  awaiting  assignment occurred after accepted  in  progress
+Anomaly in 1-578612990: accepted  assigned occurred after accepted  in  progress, queued  awaiting  assignment
+tensor([0])
+tensor([0, 1, 0, 0])
+Anomaly in 1-581898739: accepted  in  progress occurred before queued  awaiting  assignment
+Anomaly in 1-581898739: queued  awaiting  assignment occurred after accepted  in  progress
+tensor([1])
+Anomaly in 1-584812041: accepted  assigned occurred before accepted  in  progress
+Anomaly in 1-584812041: accepted  in  progress occurred after accepted  assigned
+tensor([0, 0, 0, 0, 0, 1, 1, 1, 0])
+Anomaly in 1-588712865: random activity occurred before queued  awaiting  assignment
+Anomaly in 1-588712865: accepted  in  progress occurred before accepted  wait, queued  awaiting  assignment
+Anomaly in 1-588712865: queued  awaiting  assignment occurred after accepted  in  progress, random activity
+Anomaly in 1-588712865: accepted  wait occurred after accepted  in  progress
+tensor([1, 1, 1])
+Anomaly in 1-590574771: completed  closed occurred before accepted  in  progress, queued  awaiting  assignment
+Anomaly in 1-590574771: accepted  in  progress occurred after completed  closed
+Anomaly in 1-590574771: queued  awaiting  assignment occurred after accepted  in  progress, completed  closed
+tensor([1, 1])
+Anomaly in 1-591627183: completed  closed occurred before accepted  in  progress
+Anomaly in 1-591627183: accepted  in  progress occurred after completed  closed
+Anomaly in 1-591627183: queued  awaiting  assignment occurred after accepted  in  progress
+tensor([1])
+Anomaly in 1-593312167: accepted  in  progress occurred before accepted  wait
+Anomaly in 1-593312167: accepted  wait occurred after accepted  in  progress
+tensor([1, 1, 1, 0, 1, 1])
+Anomaly in 1-594472343: completed  closed occurred before accepted  assigned, accepted  wait
+Anomaly in 1-594472343: accepted  in  progress occurred before accepted  assigned, accepted  wait
+Anomaly in 1-594472343: accepted  wait occurred after accepted  assigned, accepted  in  progress, completed  closed
+Anomaly in 1-594472343: accepted  assigned occurred after accepted  in  progress, completed  closed
+tensor([1, 1, 0, 1])
+Anomaly in 1-595293983: completed  closed occurred before accepted  in  progress, queued  awaiting  assignment
+Anomaly in 1-595293983: accepted  in  progress occurred after completed  closed
+Anomaly in 1-595293983: queued  awaiting  assignment occurred after accepted  in  progress, completed  closed
+tensor([1, 0])
+Anomaly in 1-596251950: accepted  assigned occurred before accepted  in  progress
+Anomaly in 1-596251950: accepted  in  progress occurred after accepted  assigned
+tensor([0])
+tensor([1, 1, 0])
+Anomaly in 1-599157751: accepted  in  progress occurred before queued  awaiting  assignment
+Anomaly in 1-599157751: completed  closed occurred before queued  awaiting  assignment
+Anomaly in 1-599157751: queued  awaiting  assignment occurred after accepted  in  progress, completed  closed
+tensor([1, 1, 1])
+Anomaly in 1-600663061: completed  closed occurred before accepted  in  progress, queued  awaiting  assignment
+Anomaly in 1-600663061: accepted  in  progress occurred after completed  closed
+Anomaly in 1-600663061: queued  awaiting  assignment occurred after accepted  in  progress, completed  closed
+tensor([0, 1, 1, 0, 1])
+Anomaly in 1-602870173: accepted  in  progress occurred before accepted  assigned, queued  awaiting  assignment
+Anomaly in 1-602870173: queued  awaiting  assignment occurred after accepted  in  progress
+Anomaly in 1-602870173: accepted  assigned occurred after accepted  in  progress, queued  awaiting  assignment
+tensor([1, 0])
+Anomaly in 1-604882241: accepted  in  progress occurred before queued  awaiting  assignment
+Anomaly in 1-604882241: queued  awaiting  assignment occurred after accepted  in  progress
+[]
+tensor([0])
+tensor([1])
+Anomaly in 1-607934151: completed  closed occurred before accepted  wait
+Anomaly in 1-607934151: accepted  wait occurred after completed  closed
+tensor([1, 0, 1])
+Anomaly in 1-616288482: accepted  in  progress occurred before accepted  assigned, accepted  wait
+Anomaly in 1-616288482: accepted  wait occurred after accepted  in  progress
+Anomaly in 1-616288482: accepted  assigned occurred after accepted  in  progress
+tensor([1])
+Anomaly in 1-616409083: completed  closed occurred before accepted  in  progress
+Anomaly in 1-616409083: accepted  in  progress occurred after completed  closed
+tensor([0, 1, 1])
+Anomaly in 1-616977258: accepted  in  progress occurred before accepted  assigned
+Anomaly in 1-616977258: completed  closed occurred before accepted  assigned
+Anomaly in 1-616977258: accepted  assigned occurred after accepted  in  progress, completed  closed
+tensor([1])
+Anomaly in 1-616993936: accepted  in  progress occurred before queued  awaiting  assignment
+Anomaly in 1-616993936: queued  awaiting  assignment occurred after accepted  in  progress
+tensor([1, 0, 1, 1])
+Anomaly in 1-617356985: completed  closed occurred before queued  awaiting  assignment
+Anomaly in 1-617356985: accepted  wait occurred before accepted  in  progress
+Anomaly in 1-617356985: queued  awaiting  assignment occurred after accepted  in  progress, completed  closed
+Anomaly in 1-617356985: accepted  in  progress occurred after accepted  wait
+tensor([0])
+tensor([1, 1, 1, 0])
+Anomaly in 1-618041243: completed  closed occurred before accepted  in  progress, queued  awaiting  assignment
+Anomaly in 1-618041243: accepted  wait occurred after accepted  in  progress
+Anomaly in 1-618041243: accepted  in  progress occurred after completed  closed
+Anomaly in 1-618041243: queued  awaiting  assignment occurred after completed  closed
+tensor([0, 1, 0, 1, 1, 0])
+Anomaly in 1-618116069: completed  closed occurred before accepted  in  progress, accepted  wait
+Anomaly in 1-618116069: accepted  wait occurred after accepted  in  progress, completed  closed
+Anomaly in 1-618116069: accepted  in  progress occurred after completed  closed
+tensor([1])
+Anomaly in 1-618589528: accepted  in  progress occurred before accepted  assigned
+Anomaly in 1-618589528: accepted  assigned occurred after accepted  in  progress
+tensor([1, 1])
+Anomaly in 1-619067777: accepted  in  progress occurred before accepted  wait, queued  awaiting  assignment
+Anomaly in 1-619067777: accepted  wait occurred after accepted  in  progress
+Anomaly in 1-619067777: queued  awaiting  assignment occurred after accepted  in  progress
+tensor([0])
+tensor([1, 0, 1, 0])
+Anomaly in 1-619699161: accepted  in  progress occurred before accepted  assigned, queued  awaiting  assignment
+Anomaly in 1-619699161: queued  awaiting  assignment occurred after accepted  in  progress
+Anomaly in 1-619699161: accepted  assigned occurred after accepted  in  progress
+tensor([1, 0, 1])
+Anomaly in 1-620015297: completed  closed occurred before accepted  in  progress, random activity
+Anomaly in 1-620015297: accepted  in  progress occurred after completed  closed
+Anomaly in 1-620015297: random activity occurred after completed  closed
+tensor([1, 1, 1, 1])
+Anomaly in 1-620432583: accepted  in  progress occurred before accepted  wait, queued  awaiting  assignment
+Anomaly in 1-620432583: completed  closed occurred before accepted  in  progress, queued  awaiting  assignment
+Anomaly in 1-620432583: accepted  wait occurred after accepted  in  progress
+Anomaly in 1-620432583: queued  awaiting  assignment occurred after accepted  in  progress, completed  closed
+tensor([1])
+Anomaly in 1-621311061: completed  closed occurred before accepted  in  progress
+Anomaly in 1-621311061: accepted  in  progress occurred after completed  closed
+tensor([0, 0, 0, 0, 1, 1, 0])
+Anomaly in 1-621393223: accepted  assigned occurred before accepted  in  progress
+Anomaly in 1-621393223: accepted  in  progress occurred after accepted  assigned
+Anomaly in 1-621393223: queued  awaiting  assignment occurred after accepted  in  progress
+tensor([1, 1, 0, 0])
+Anomaly in 1-622618613: accepted  in  progress occurred before accepted  wait, queued  awaiting  assignment
+Anomaly in 1-622618613: accepted  wait occurred after accepted  in  progress
+Anomaly in 1-622618613: queued  awaiting  assignment occurred after accepted  in  progress
+tensor([1, 0])
+Anomaly in 1-622783644: accepted  in  progress occurred before accepted  wait
+Anomaly in 1-622783644: accepted  wait occurred after accepted  in  progress
+tensor([0])
+tensor([1, 1, 1, 1])
+Anomaly in 1-623873811: accepted  in  progress occurred before accepted  wait, queued  awaiting  assignment
+Anomaly in 1-623873811: completed  closed occurred before accepted  in  progress, queued  awaiting  assignment
+Anomaly in 1-623873811: accepted  wait occurred after accepted  in  progress
+Anomaly in 1-623873811: queued  awaiting  assignment occurred after accepted  in  progress, completed  closed
+tensor([0, 0, 0, 1, 1, 0])
+Anomaly in 1-625459293: accepted  in  progress occurred before accepted  wait, queued  awaiting  assignment
+Anomaly in 1-625459293: accepted  wait occurred after accepted  in  progress
+Anomaly in 1-625459293: queued  awaiting  assignment occurred after accepted  in  progress
+tensor([1])
+Anomaly in 1-626515794: accepted  in  progress occurred before accepted  assigned
+Anomaly in 1-626515794: accepted  assigned occurred after accepted  in  progress
+tensor([1, 1, 1, 0, 1, 1])
+Anomaly in 1-628203323: completed  closed occurred before accepted  assigned, accepted  wait
+Anomaly in 1-628203323: accepted  in  progress occurred before accepted  assigned, accepted  wait
+Anomaly in 1-628203323: accepted  wait occurred after accepted  assigned, accepted  in  progress, completed  closed
+Anomaly in 1-628203323: accepted  assigned occurred after accepted  in  progress, completed  closed
+tensor([1, 0, 0, 0])
+Anomaly in 1-631117870: accepted  in  progress occurred before accepted  wait
+Anomaly in 1-631117870: accepted  wait occurred after accepted  in  progress
+tensor([1])
+Anomaly in 1-636080278: accepted  in  progress occurred before queued  awaiting  assignment
+Anomaly in 1-636080278: queued  awaiting  assignment occurred after accepted  in  progress
+tensor([0, 0, 0, 1, 1, 1, 1])
+Anomaly in 1-636102195: accepted  in  progress occurred before accepted  wait, queued  awaiting  assignment
+Anomaly in 1-636102195: accepted  assigned occurred before accepted  in  progress, accepted  wait
+Anomaly in 1-636102195: accepted  wait occurred after accepted  assigned, accepted  in  progress
+Anomaly in 1-636102195: queued  awaiting  assignment occurred after accepted  in  progress
+[]
+tensor([1, 0, 1])
+Anomaly in 1-636931254: accepted  in  progress occurred before accepted  assigned, queued  awaiting  assignment
+Anomaly in 1-636931254: queued  awaiting  assignment occurred after accepted  in  progress
+Anomaly in 1-636931254: accepted  assigned occurred after accepted  in  progress
+tensor([1, 1, 0])
+Anomaly in 1-637089310: accepted  in  progress occurred before accepted  assigned, random activity
+Anomaly in 1-637089310: random activity occurred after accepted  in  progress
+Anomaly in 1-637089310: accepted  assigned occurred after accepted  in  progress
+tensor([0, 1, 1])
+Anomaly in 1-637893062: accepted  in  progress occurred before accepted  assigned
+Anomaly in 1-637893062: completed  closed occurred before accepted  assigned
+Anomaly in 1-637893062: accepted  assigned occurred after accepted  in  progress, completed  closed
+tensor([1, 1, 1, 0, 1, 1, 1])
+Anomaly in 1-638091067: accepted  in  progress occurred before accepted  assigned, accepted  wait, queued  awaiting  assignment
+Anomaly in 1-638091067: completed  closed occurred before accepted  assigned, accepted  in  progress, queued  awaiting  assignment
+Anomaly in 1-638091067: accepted  assigned occurred after accepted  in  progress, completed  closed
+Anomaly in 1-638091067: queued  awaiting  assignment occurred after accepted  in  progress, completed  closed
+Anomaly in 1-638091067: accepted  wait occurred after accepted  in  progress
+tensor([1, 1, 0, 1])
+Anomaly in 1-640387614: accepted  in  progress occurred before queued  awaiting  assignment, random activity
+Anomaly in 1-640387614: queued  awaiting  assignment occurred after accepted  in  progress, random activity
+Anomaly in 1-640387614: random activity occurred after accepted  in  progress
+tensor([0, 1])
+Anomaly in 1-641243011: accepted  in  progress occurred before accepted  assigned
+Anomaly in 1-641243011: accepted  assigned occurred after accepted  in  progress
+tensor([1, 1, 1])
+Anomaly in 1-641323677: completed  closed occurred before accepted  assigned, accepted  in  progress
+Anomaly in 1-641323677: accepted  in  progress occurred after completed  closed
+Anomaly in 1-641323677: accepted  assigned occurred after accepted  in  progress, completed  closed
+tensor([1, 1, 0])
+Anomaly in 1-642766943: accepted  in  progress occurred before accepted  wait
+Anomaly in 1-642766943: completed  closed occurred before accepted  wait
+Anomaly in 1-642766943: accepted  wait occurred after accepted  in  progress, completed  closed
+tensor([1])
+Anomaly in 1-643706642: completed  closed occurred before accepted  in  progress
+Anomaly in 1-643706642: accepted  in  progress occurred after completed  closed
+tensor([1, 1, 0])
+Anomaly in 1-644992956: accepted  in  progress occurred before accepted  wait
+Anomaly in 1-644992956: completed  closed occurred before accepted  wait
+Anomaly in 1-644992956: accepted  wait occurred after accepted  in  progress, completed  closed
+tensor([0, 1, 0])
+Anomaly in 1-647796802: accepted  in  progress occurred before accepted  assigned
+Anomaly in 1-647796802: accepted  assigned occurred after accepted  in  progress
+tensor([1, 0])
+Anomaly in 1-647841758: accepted  in  progress occurred before queued  awaiting  assignment
+Anomaly in 1-647841758: queued  awaiting  assignment occurred after accepted  in  progress
+tensor([1, 1, 1])
+Anomaly in 1-653314473: completed  closed occurred before accepted  in  progress, queued  awaiting  assignment
+Anomaly in 1-653314473: accepted  in  progress occurred after completed  closed
+Anomaly in 1-653314473: queued  awaiting  assignment occurred after accepted  in  progress, completed  closed
+tensor([1, 0, 1])
+Anomaly in 1-656510751: completed  closed occurred before accepted  in  progress, random activity
+Anomaly in 1-656510751: accepted  in  progress occurred after completed  closed
+Anomaly in 1-656510751: random activity occurred after completed  closed
+tensor([1, 1, 0, 1, 1, 0])
+Anomaly in 1-656868426: accepted  in  progress occurred before accepted  assigned, accepted  wait
+Anomaly in 1-656868426: completed  closed occurred before accepted  wait
+Anomaly in 1-656868426: accepted  wait occurred after accepted  assigned, accepted  in  progress, completed  closed
+Anomaly in 1-656868426: accepted  assigned occurred after accepted  in  progress
+tensor([1, 0])
+Anomaly in 1-657063150: accepted  in  progress occurred before accepted  assigned
+Anomaly in 1-657063150: accepted  assigned occurred after accepted  in  progress
+tensor([1, 1, 0])
+Anomaly in 1-657768145: accepted  assigned occurred before accepted  in  progress
+Anomaly in 1-657768145: completed  closed occurred before accepted  in  progress
+Anomaly in 1-657768145: accepted  in  progress occurred after accepted  assigned, completed  closed
+tensor([1, 0, 1])
+Anomaly in 1-660268091: accepted  in  progress occurred before queued  awaiting  assignment
+Anomaly in 1-660268091: completed  closed occurred before queued  awaiting  assignment
+Anomaly in 1-660268091: queued  awaiting  assignment occurred after accepted  in  progress, completed  closed
+tensor([1, 0, 1])
+Anomaly in 1-660903884: accepted  in  progress occurred before queued  awaiting  assignment
+Anomaly in 1-660903884: completed  closed occurred before queued  awaiting  assignment
+Anomaly in 1-660903884: queued  awaiting  assignment occurred after accepted  in  progress, completed  closed
+tensor([0, 1, 1, 1, 0])
+Anomaly in 1-669119156: completed  closed occurred before accepted  assigned, accepted  in  progress
+Anomaly in 1-669119156: accepted  in  progress occurred after completed  closed
+Anomaly in 1-669119156: accepted  assigned occurred after accepted  in  progress, completed  closed
+tensor([1, 0, 1])
+Anomaly in 1-670754761: accepted  in  progress occurred before accepted  wait, queued  awaiting  assignment
+Anomaly in 1-670754761: accepted  wait occurred after accepted  in  progress
+Anomaly in 1-670754761: queued  awaiting  assignment occurred after accepted  in  progress
+tensor([1, 0, 1, 0])
+Anomaly in 1-672506739: accepted  in  progress occurred before accepted  wait, queued  awaiting  assignment
+Anomaly in 1-672506739: accepted  wait occurred after accepted  in  progress
+Anomaly in 1-672506739: queued  awaiting  assignment occurred after accepted  in  progress
+tensor([0, 1, 1, 1, 1])
+Anomaly in 1-675150191: accepted  assigned occurred before accepted  in  progress, accepted  wait
+Anomaly in 1-675150191: completed  closed occurred before accepted  in  progress
+Anomaly in 1-675150191: accepted  in  progress occurred after accepted  assigned, accepted  wait, completed  closed
+Anomaly in 1-675150191: accepted  wait occurred after accepted  assigned
+tensor([0, 1, 1])
+Anomaly in 1-678626550: accepted  in  progress occurred before accepted  assigned
+Anomaly in 1-678626550: completed  closed occurred before accepted  assigned
+Anomaly in 1-678626550: accepted  assigned occurred after accepted  in  progress, completed  closed
+tensor([0, 1, 1, 1, 0, 1])
+Anomaly in 1-683298971: accepted  assigned occurred before accepted  in  progress, accepted  wait
+Anomaly in 1-683298971: completed  closed occurred before accepted  in  progress
+Anomaly in 1-683298971: accepted  in  progress occurred after accepted  assigned, accepted  wait, completed  closed
+Anomaly in 1-683298971: accepted  wait occurred after accepted  assigned
+tensor([0, 1])
+Anomaly in 1-686557724: accepted  in  progress occurred before accepted  assigned
+Anomaly in 1-686557724: accepted  assigned occurred after accepted  in  progress
+tensor([1, 0, 0])
+Anomaly in 1-686945977: accepted  in  progress occurred before accepted  wait
+Anomaly in 1-686945977: accepted  wait occurred after accepted  in  progress
+tensor([1, 0, 0, 0])
+Anomaly in 1-688280019: accepted  in  progress occurred before accepted  wait
+Anomaly in 1-688280019: accepted  wait occurred after accepted  in  progress
+tensor([0, 0, 0, 1, 1, 1, 1])
+Anomaly in 1-688380091: random activity occurred before queued  awaiting  assignment
+Anomaly in 1-688380091: accepted  in  progress occurred before accepted  wait, queued  awaiting  assignment
+Anomaly in 1-688380091: queued  awaiting  assignment occurred after accepted  in  progress, random activity
+Anomaly in 1-688380091: accepted  wait occurred after accepted  in  progress
+tensor([0, 0, 1, 0, 1, 0])
+Anomaly in 1-688564824: accepted  in  progress occurred before accepted  assigned, queued  awaiting  assignment
+Anomaly in 1-688564824: queued  awaiting  assignment occurred after accepted  in  progress
+Anomaly in 1-688564824: accepted  assigned occurred after accepted  in  progress
+tensor([1, 0, 0])
+Anomaly in 1-689469104: completed  closed occurred before accepted  in  progress
+Anomaly in 1-689469104: accepted  in  progress occurred after completed  closed
+tensor([0])
+[]
+tensor([0, 1, 0])
+Anomaly in 1-690931471: accepted  in  progress occurred before queued  awaiting  assignment
+Anomaly in 1-690931471: queued  awaiting  assignment occurred after accepted  in  progress
+tensor([0, 1, 0])
+Anomaly in 1-691093464: accepted  in  progress occurred before queued  awaiting  assignment
+Anomaly in 1-691093464: queued  awaiting  assignment occurred after accepted  in  progress
+tensor([1, 1, 1, 1, 1, 1])
+Anomaly in 1-691786096: accepted  in  progress occurred before accepted  assigned, queued  awaiting  assignment
+Anomaly in 1-691786096: completed  closed occurred before accepted  assigned, accepted  in  progress, queued  awaiting  assignment
+Anomaly in 1-691786096: accepted  assigned occurred after accepted  in  progress, completed  closed, queued  awaiting  assignment
+Anomaly in 1-691786096: queued  awaiting  assignment occurred after accepted  in  progress, completed  closed
+tensor([1])
+Anomaly in 1-691786330: completed  closed occurred before accepted  assigned
+Anomaly in 1-691786330: accepted  assigned occurred after completed  closed
+tensor([1, 1, 1, 0, 1, 1, 1])
+Anomaly in 1-694222066: random activity occurred before accepted  assigned, queued  awaiting  assignment
+Anomaly in 1-694222066: accepted  in  progress occurred before accepted  assigned, queued  awaiting  assignment, random activity
+Anomaly in 1-694222066: accepted  assigned occurred after accepted  in  progress, queued  awaiting  assignment, random activity
+Anomaly in 1-694222066: queued  awaiting  assignment occurred after accepted  in  progress, random activity
+tensor([0])
+tensor([1, 1, 0, 0, 0, 1, 0])
+Anomaly in 1-694794065: accepted  in  progress occurred before accepted  assigned, random activity
+Anomaly in 1-694794065: accepted  assigned occurred after accepted  in  progress, random activity
+Anomaly in 1-694794065: random activity occurred after accepted  in  progress
+tensor([0, 1, 0, 0, 1, 1, 0])
+Anomaly in 1-696680265: accepted  in  progress occurred before accepted  wait, queued  awaiting  assignment
+Anomaly in 1-696680265: completed  closed occurred before accepted  wait
+Anomaly in 1-696680265: accepted  wait occurred after accepted  in  progress, completed  closed
+Anomaly in 1-696680265: queued  awaiting  assignment occurred after accepted  in  progress
+tensor([1, 0, 0])
+Anomaly in 1-697041731: accepted  in  progress occurred before accepted  wait
+Anomaly in 1-697041731: accepted  wait occurred after accepted  in  progress
+tensor([1, 1, 0, 1, 0, 1, 1])
+Anomaly in 1-697458590: accepted  in  progress occurred before accepted  assigned, queued  awaiting  assignment
+Anomaly in 1-697458590: completed  closed occurred before accepted  assigned, queued  awaiting  assignment
+Anomaly in 1-697458590: accepted  assigned occurred after accepted  in  progress, completed  closed
+Anomaly in 1-697458590: queued  awaiting  assignment occurred after accepted  in  progress, completed  closed
+Anomaly in 1-697458590: accepted  wait occurred after accepted  assigned
+tensor([1, 1, 1, 0])
+Anomaly in 1-698044001: accepted  in  progress occurred before accepted  assigned, queued  awaiting  assignment
+Anomaly in 1-698044001: queued  awaiting  assignment occurred after accepted  in  progress
+Anomaly in 1-698044001: accepted  assigned occurred after accepted  in  progress, queued  awaiting  assignment
+tensor([0])
+tensor([1, 0, 1, 1, 0])
+Anomaly in 1-698998499: accepted  in  progress occurred before accepted  wait, queued  awaiting  assignment
+Anomaly in 1-698998499: completed  closed occurred before queued  awaiting  assignment
+Anomaly in 1-698998499: accepted  wait occurred after accepted  in  progress
+Anomaly in 1-698998499: queued  awaiting  assignment occurred after accepted  in  progress, completed  closed
+tensor([0, 0])
+tensor([0, 0, 1, 1, 0])
+Anomaly in 1-700498223: accepted  in  progress occurred before accepted  wait, queued  awaiting  assignment
+Anomaly in 1-700498223: accepted  wait occurred after accepted  in  progress
+Anomaly in 1-700498223: queued  awaiting  assignment occurred after accepted  in  progress
+tensor([1, 1, 0, 1])
+Anomaly in 1-701429911: accepted  in  progress occurred before accepted  assigned, accepted  wait
+Anomaly in 1-701429911: accepted  wait occurred after accepted  assigned, accepted  in  progress
+Anomaly in 1-701429911: accepted  assigned occurred after accepted  in  progress
+tensor([1])
+Anomaly in 1-703190797: accepted  in  progress occurred before queued  awaiting  assignment
+Anomaly in 1-703190797: queued  awaiting  assignment occurred after accepted  in  progress
+tensor([1, 0, 1])
+Anomaly in 1-703399394: accepted  in  progress occurred before queued  awaiting  assignment
+Anomaly in 1-703399394: completed  closed occurred before queued  awaiting  assignment
+Anomaly in 1-703399394: queued  awaiting  assignment occurred after accepted  in  progress, completed  closed
+tensor([0, 0, 0, 0, 0, 1, 1])
+Anomaly in 1-703540157: accepted  in  progress occurred before accepted  wait, queued  awaiting  assignment
+Anomaly in 1-703540157: accepted  wait occurred after accepted  in  progress
+Anomaly in 1-703540157: queued  awaiting  assignment occurred after accepted  in  progress
+tensor([0, 0, 1, 0])
+Anomaly in 1-704650867: accepted  in  progress occurred before queued  awaiting  assignment
+Anomaly in 1-704650867: queued  awaiting  assignment occurred after accepted  in  progress
+tensor([0])
+tensor([1, 1, 1, 0, 0, 0, 1, 1])
+Anomaly in 1-707300171: accepted  in  progress occurred before accepted  assigned, queued  awaiting  assignment
+Anomaly in 1-707300171: completed  closed occurred before queued  awaiting  assignment
+Anomaly in 1-707300171: accepted  wait occurred before accepted  in  progress
+Anomaly in 1-707300171: accepted  assigned occurred after accepted  in  progress, queued  awaiting  assignment
+Anomaly in 1-707300171: queued  awaiting  assignment occurred after accepted  in  progress, completed  closed
+tensor([1, 1, 1, 0])
+Anomaly in 1-710114300: accepted  in  progress occurred before accepted  assigned, queued  awaiting  assignment
+Anomaly in 1-710114300: queued  awaiting  assignment occurred after accepted  in  progress
+Anomaly in 1-710114300: accepted  assigned occurred after accepted  in  progress, queued  awaiting  assignment
+tensor([0, 1, 0])
+Anomaly in 1-712856449: accepted  in  progress occurred before queued  awaiting  assignment
+Anomaly in 1-712856449: queued  awaiting  assignment occurred after accepted  in  progress
+tensor([1, 1, 0])
+Anomaly in 1-716154984: completed  closed occurred before accepted  in  progress, queued  awaiting  assignment
+Anomaly in 1-716154984: accepted  in  progress occurred after completed  closed
+Anomaly in 1-716154984: queued  awaiting  assignment occurred after completed  closed
+tensor([0])
+tensor([1, 0, 0])
+Anomaly in 1-720069371: accepted  in  progress occurred before accepted  wait
+Anomaly in 1-720069371: accepted  wait occurred after accepted  in  progress
+tensor([1, 1, 0])
+Anomaly in 1-722674364: accepted  in  progress occurred before queued  awaiting  assignment
+Anomaly in 1-722674364: queued  awaiting  assignment occurred after accepted  in  progress
+Anomaly in 1-722674364: accepted  assigned occurred after queued  awaiting  assignment
+tensor([1, 0])
+Anomaly in 1-722688743: accepted  in  progress occurred before queued  awaiting  assignment
+Anomaly in 1-722688743: queued  awaiting  assignment occurred after accepted  in  progress
+tensor([1])
+Anomaly in 1-726517211: accepted  in  progress occurred before queued  awaiting  assignment
+Anomaly in 1-726517211: queued  awaiting  assignment occurred after accepted  in  progress
+tensor([1, 0, 1, 0])
+Anomaly in 1-728470722: accepted  in  progress occurred after accepted  assigned
+Anomaly in 1-728470722: accepted  assigned occurred after accepted  in  progress
+tensor([0, 1])
+Anomaly in 1-730084841: completed  closed occurred before queued  awaiting  assignment
+Anomaly in 1-730084841: queued  awaiting  assignment occurred after completed  closed
+tensor([0, 1, 0, 0, 1, 0])
+Anomaly in 1-732289301: queued  awaiting  assignment occurred before accepted  assigned
+Anomaly in 1-732289301: accepted  in  progress occurred after accepted  assigned
+Anomaly in 1-732289301: accepted  assigned occurred after queued  awaiting  assignment
+tensor([0, 0, 0, 1, 1])
+Anomaly in 1-733562890: accepted  wait occurred before accepted  in  progress
+Anomaly in 1-733562890: queued  awaiting  assignment occurred after accepted  in  progress
+Anomaly in 1-733562890: accepted  in  progress occurred after accepted  wait
+tensor([0, 1, 0, 0])
+Anomaly in 1-736351127: accepted  in  progress occurred before queued  awaiting  assignment
+Anomaly in 1-736351127: queued  awaiting  assignment occurred after accepted  in  progress
+tensor([0, 1, 0, 0])
+Anomaly in 1-736351222: accepted  in  progress occurred before queued  awaiting  assignment
+Anomaly in 1-736351222: queued  awaiting  assignment occurred after accepted  in  progress
+[]
+tensor([1, 0, 0, 1, 1, 1, 1, 0])
+Anomaly in 1-738300041: accepted  assigned occurred before accepted  in  progress, accepted  wait
+Anomaly in 1-738300041: accepted  in  progress occurred before accepted  wait, queued  awaiting  assignment
+Anomaly in 1-738300041: accepted  wait occurred after accepted  assigned, accepted  in  progress
+Anomaly in 1-738300041: queued  awaiting  assignment occurred after accepted  in  progress
+tensor([1])
+Anomaly in 1-738322892: accepted  in  progress occurred before queued  awaiting  assignment
+Anomaly in 1-738322892: queued  awaiting  assignment occurred after accepted  in  progress
+tensor([1, 1, 0])
+Anomaly in 1-738501821: accepted  assigned occurred before accepted  in  progress
+Anomaly in 1-738501821: accepted  in  progress occurred after accepted  assigned
+Anomaly in 1-738501821: queued  awaiting  assignment occurred after accepted  in  progress
+tensor([1, 0, 0, 1, 0, 0])
+Anomaly in 1-738520030: queued  awaiting  assignment occurred before accepted  assigned
+Anomaly in 1-738520030: accepted  in  progress occurred after accepted  assigned
+Anomaly in 1-738520030: accepted  assigned occurred after queued  awaiting  assignment
+tensor([1, 1, 1])
+Anomaly in 1-738520140: accepted  in  progress occurred before accepted  assigned, queued  awaiting  assignment
+Anomaly in 1-738520140: queued  awaiting  assignment occurred after accepted  in  progress
+Anomaly in 1-738520140: accepted  assigned occurred after accepted  in  progress, queued  awaiting  assignment
+tensor([1, 0, 1])
+Anomaly in 1-738520280: accepted  in  progress occurred before accepted  assigned, queued  awaiting  assignment
+Anomaly in 1-738520280: queued  awaiting  assignment occurred after accepted  in  progress
+Anomaly in 1-738520280: accepted  assigned occurred after accepted  in  progress
+tensor([1, 1, 0])
+Anomaly in 1-738520420: accepted  assigned occurred before accepted  in  progress
+Anomaly in 1-738520420: accepted  in  progress occurred after accepted  assigned
+Anomaly in 1-738520420: queued  awaiting  assignment occurred after accepted  in  progress
+tensor([0, 1, 0])
+Anomaly in 1-738820974: accepted  in  progress occurred before accepted  assigned
+Anomaly in 1-738820974: accepted  assigned occurred after accepted  in  progress
+tensor([1])
+Anomaly in 1-739385022: accepted  in  progress occurred before accepted  wait
+Anomaly in 1-739385022: accepted  wait occurred after accepted  in  progress
+tensor([1, 0, 1, 0])
+Anomaly in 1-739633778: accepted  in  progress occurred before accepted  assigned, queued  awaiting  assignment
+Anomaly in 1-739633778: queued  awaiting  assignment occurred after accepted  in  progress
+Anomaly in 1-739633778: accepted  assigned occurred after accepted  in  progress
+tensor([0, 1, 0])
+Anomaly in 1-739695919: completed  closed occurred before queued  awaiting  assignment
+Anomaly in 1-739695919: queued  awaiting  assignment occurred after completed  closed
+tensor([1, 0])
+Anomaly in 1-740597491: accepted  in  progress occurred before queued  awaiting  assignment
+Anomaly in 1-740597491: queued  awaiting  assignment occurred after accepted  in  progress
+tensor([1, 1])
+Anomaly in 1-740681141: accepted  in  progress occurred before accepted  assigned, queued  awaiting  assignment
+Anomaly in 1-740681141: queued  awaiting  assignment occurred after accepted  in  progress
+Anomaly in 1-740681141: accepted  assigned occurred after accepted  in  progress
+tensor([1])
+Anomaly in 1-740740981: accepted  in  progress occurred before queued  awaiting  assignment
+Anomaly in 1-740740981: queued  awaiting  assignment occurred after accepted  in  progress
+tensor([1, 1])
+Anomaly in 1-741987554: accepted  wait occurred before accepted  in  progress
+Anomaly in 1-741987554: queued  awaiting  assignment occurred after accepted  in  progress
+Anomaly in 1-741987554: accepted  in  progress occurred after accepted  wait
+tensor([1, 1])
+Anomaly in 1-742295367: accepted  wait occurred before accepted  in  progress
+Anomaly in 1-742295367: accepted  assigned occurred after accepted  in  progress
+Anomaly in 1-742295367: accepted  in  progress occurred after accepted  wait
+[]
+tensor([1, 1, 1])
+Anomaly in 1-742894028: accepted  in  progress occurred before accepted  assigned, accepted  wait
+Anomaly in 1-742894028: accepted  wait occurred after accepted  assigned, accepted  in  progress
+Anomaly in 1-742894028: accepted  assigned occurred after accepted  in  progress
+tensor([1])
+Anomaly in 1-743091195: accepted  in  progress occurred before queued  awaiting  assignment
+Anomaly in 1-743091195: queued  awaiting  assignment occurred after accepted  in  progress
+tensor([1, 0, 1])
+Anomaly in 1-743163074: accepted  in  progress occurred before accepted  wait
+Anomaly in 1-743163074: random activity occurred before accepted  wait
+Anomaly in 1-743163074: accepted  wait occurred after accepted  in  progress, random activity
+tensor([1, 0, 1])
+Anomaly in 1-743404481: random activity occurred before accepted  assigned
+Anomaly in 1-743404481: accepted  in  progress occurred before accepted  assigned
+Anomaly in 1-743404481: accepted  assigned occurred after accepted  in  progress, random activity
+tensor([1, 0])
+Anomaly in 1-743606342: accepted  in  progress occurred before queued  awaiting  assignment
+Anomaly in 1-743606342: queued  awaiting  assignment occurred after accepted  in  progress
+tensor([1, 0, 1, 0])
+Anomaly in 1-745770713: accepted  in  progress occurred before accepted  assigned, queued  awaiting  assignment
+Anomaly in 1-745770713: queued  awaiting  assignment occurred after accepted  in  progress
+Anomaly in 1-745770713: accepted  assigned occurred after accepted  in  progress
+tensor([0])
+tensor([0])
+tensor([1, 1, 0])
+Anomaly in 1-746464884: accepted  in  progress occurred before accepted  wait, queued  awaiting  assignment
+Anomaly in 1-746464884: accepted  wait occurred after accepted  in  progress
+Anomaly in 1-746464884: queued  awaiting  assignment occurred after accepted  in  progress
+tensor([1, 0, 0])
+Anomaly in 1-747147181: accepted  in  progress occurred before accepted  wait
+Anomaly in 1-747147181: accepted  wait occurred after accepted  in  progress
+tensor([1, 0, 0])
+Anomaly in 1-747371909: accepted  assigned occurred before accepted  in  progress
+Anomaly in 1-747371909: accepted  in  progress occurred after accepted  assigned
+tensor([1, 1, 0])
+Anomaly in 1-747473781: queued  awaiting  assignment occurred before accepted  assigned
+Anomaly in 1-747473781: accepted  in  progress occurred before accepted  assigned
+Anomaly in 1-747473781: accepted  assigned occurred after accepted  in  progress, queued  awaiting  assignment
+tensor([0])
+tensor([0, 1, 1])
+Anomaly in 1-747689792: accepted  wait occurred before accepted  in  progress
+Anomaly in 1-747689792: accepted  assigned occurred after accepted  in  progress
+Anomaly in 1-747689792: accepted  in  progress occurred after accepted  wait
+tensor([0])
+tensor([1])
+Anomaly in 1-748341709: accepted  assigned occurred before accepted  wait
+Anomaly in 1-748341709: accepted  wait occurred after accepted  assigned
+tensor([1, 0])
+Anomaly in 1-749119026: accepted  in  progress occurred before queued  awaiting  assignment
+Anomaly in 1-749119026: queued  awaiting  assignment occurred after accepted  in  progress
+tensor([1])
+Anomaly in 1-749313527: accepted  wait occurred before accepted  in  progress
+Anomaly in 1-749313527: accepted  in  progress occurred after accepted  wait
+tensor([1])
+Anomaly in 1-749375951: accepted  in  progress occurred before accepted  wait
+Anomaly in 1-749375951: accepted  wait occurred after accepted  in  progress
+tensor([1, 1, 0, 0])
+Anomaly in 1-749851721: accepted  in  progress occurred before accepted  wait, queued  awaiting  assignment
+Anomaly in 1-749851721: accepted  wait occurred after accepted  in  progress
+Anomaly in 1-749851721: queued  awaiting  assignment occurred after accepted  in  progress
+tensor([1, 1])
+Anomaly in 1-750007716: accepted  in  progress occurred before accepted  wait, queued  awaiting  assignment
+Anomaly in 1-750007716: accepted  wait occurred after accepted  in  progress
+Anomaly in 1-750007716: queued  awaiting  assignment occurred after accepted  in  progress
+tensor([1, 1])
+Anomaly in 1-750090643: accepted  in  progress occurred before accepted  wait, queued  awaiting  assignment
+Anomaly in 1-750090643: accepted  wait occurred after accepted  in  progress
+Anomaly in 1-750090643: queued  awaiting  assignment occurred after accepted  in  progress
+tensor([1, 1, 1])
+Anomaly in 1-750106623: accepted  in  progress occurred before accepted  assigned, queued  awaiting  assignment
+Anomaly in 1-750106623: queued  awaiting  assignment occurred after accepted  in  progress
+Anomaly in 1-750106623: accepted  assigned occurred after accepted  in  progress, queued  awaiting  assignment
+tensor([1, 0, 0, 0])
+Anomaly in 1-750411941: accepted  in  progress occurred before accepted  wait
+Anomaly in 1-750411941: accepted  wait occurred after accepted  in  progress
+tensor([1, 0, 1, 1])
+Anomaly in 1-750499270: accepted  in  progress occurred before accepted  assigned, queued  awaiting  assignment
+Anomaly in 1-750499270: accepted  wait occurred before accepted  in  progress
+Anomaly in 1-750499270: queued  awaiting  assignment occurred after accepted  in  progress
+Anomaly in 1-750499270: accepted  assigned occurred after accepted  in  progress
+tensor([1, 1])
+Anomaly in 1-750717620: accepted  assigned occurred before accepted  in  progress
+Anomaly in 1-750717620: accepted  in  progress occurred after accepted  assigned
+Anomaly in 1-750717620: queued  awaiting  assignment occurred after accepted  in  progress
+tensor([1, 0])
+Anomaly in 1-752141231: accepted  in  progress occurred before queued  awaiting  assignment
+Anomaly in 1-752141231: queued  awaiting  assignment occurred after accepted  in  progress
+tensor([1, 0])
+Anomaly in 1-752294640: queued  awaiting  assignment occurred before accepted  assigned
+Anomaly in 1-752294640: accepted  assigned occurred after queued  awaiting  assignment
+tensor([1, 1, 0, 1])
+Anomaly in 1-752294659: accepted  in  progress occurred before accepted  assigned, queued  awaiting  assignment
+Anomaly in 1-752294659: queued  awaiting  assignment occurred after accepted  in  progress
+Anomaly in 1-752294659: accepted  assigned occurred after accepted  in  progress
+tensor([1, 1])
+Anomaly in 1-752828161: accepted  in  progress occurred before accepted  assigned, queued  awaiting  assignment
+Anomaly in 1-752828161: queued  awaiting  assignment occurred after accepted  in  progress
+Anomaly in 1-752828161: accepted  assigned occurred after accepted  in  progress
+tensor([1, 0])
+Anomaly in 1-753245663: accepted  in  progress occurred before queued  awaiting  assignment
+Anomaly in 1-753245663: queued  awaiting  assignment occurred after accepted  in  progress
+tensor([1, 1, 0])
+Anomaly in 1-753487360: accepted  in  progress occurred before accepted  wait, queued  awaiting  assignment
+Anomaly in 1-753487360: accepted  wait occurred after accepted  in  progress
+Anomaly in 1-753487360: queued  awaiting  assignment occurred after accepted  in  progress
+tensor([0, 0, 0, 1, 1, 1])
+Anomaly in 1-753504966: accepted  in  progress occurred before accepted  wait, queued  awaiting  assignment
+Anomaly in 1-753504966: accepted  wait occurred after accepted  in  progress
+Anomaly in 1-753504966: queued  awaiting  assignment occurred after accepted  in  progress
+tensor([1, 1, 0])
+Anomaly in 1-754168350: queued  awaiting  assignment occurred before accepted  assigned
+Anomaly in 1-754168350: accepted  in  progress occurred before accepted  assigned
+Anomaly in 1-754168350: accepted  assigned occurred after accepted  in  progress, queued  awaiting  assignment
+tensor([0, 0, 1])
+Anomaly in 1-754350709: accepted  wait occurred before accepted  in  progress
+Anomaly in 1-754350709: accepted  in  progress occurred after accepted  wait
+tensor([1, 0, 0, 1, 1, 0])
+Anomaly in 1-754949761: accepted  in  progress occurred before accepted  assigned, accepted  wait, queued  awaiting  assignment
+Anomaly in 1-754949761: accepted  wait occurred after accepted  in  progress
+Anomaly in 1-754949761: queued  awaiting  assignment occurred after accepted  in  progress
+Anomaly in 1-754949761: accepted  assigned occurred after accepted  in  progress
+tensor([1])
+Anomaly in 1-756110987: accepted  in  progress occurred before queued  awaiting  assignment
+Anomaly in 1-756110987: queued  awaiting  assignment occurred after accepted  in  progress
+tensor([1])
+Anomaly in 1-756296231: accepted  in  progress occurred before accepted  assigned
+Anomaly in 1-756296231: accepted  assigned occurred after accepted  in  progress
+tensor([1])
+Anomaly in 1-756484463: accepted  wait occurred before accepted  in  progress
+Anomaly in 1-756484463: accepted  in  progress occurred after accepted  wait
+tensor([1, 0, 1])
+Anomaly in 1-756651699: accepted  assigned occurred before accepted  in  progress
+Anomaly in 1-756651699: accepted  wait occurred before accepted  in  progress
+Anomaly in 1-756651699: accepted  in  progress occurred after accepted  assigned, accepted  wait
+tensor([1])
+Anomaly in 1-756998975: accepted  in  progress occurred before random activity
+Anomaly in 1-756998975: random activity occurred after accepted  in  progress
+tensor([1, 1, 1])
+Anomaly in 1-757096237: accepted  in  progress occurred before accepted  assigned, accepted  wait
+Anomaly in 1-757096237: accepted  wait occurred after accepted  assigned, accepted  in  progress
+Anomaly in 1-757096237: accepted  assigned occurred after accepted  in  progress
+tensor([1, 1, 0])
+Anomaly in 1-757113161: random activity occurred before queued  awaiting  assignment
+Anomaly in 1-757113161: accepted  in  progress occurred before queued  awaiting  assignment
+Anomaly in 1-757113161: queued  awaiting  assignment occurred after accepted  in  progress, random activity
+tensor([1, 1, 0])
+Anomaly in 1-757154661: queued  awaiting  assignment occurred before accepted  assigned
+Anomaly in 1-757154661: accepted  in  progress occurred before accepted  assigned
+Anomaly in 1-757154661: accepted  assigned occurred after accepted  in  progress, queued  awaiting  assignment
+tensor([1, 1, 0])
+Anomaly in 1-757480343: queued  awaiting  assignment occurred before accepted  assigned
+Anomaly in 1-757480343: accepted  in  progress occurred after accepted  assigned
+Anomaly in 1-757480343: accepted  assigned occurred after queued  awaiting  assignment
+tensor([1, 0])
+Anomaly in 1-757671208: accepted  in  progress occurred before accepted  wait
+Anomaly in 1-757671208: accepted  wait occurred after accepted  in  progress
+tensor([1])
+Anomaly in 1-758488261: accepted  in  progress occurred before queued  awaiting  assignment
+Anomaly in 1-758488261: queued  awaiting  assignment occurred after accepted  in  progress
+[]
+60  anomalies found
